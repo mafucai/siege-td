@@ -113,6 +113,8 @@ jobs:
       - name: Preflight diagnostics
         run: |
           set -euo pipefail
+          mkdir -p build
+          exec > >(tee build/preflight.log) 2>&1
           export ANDROID_HOME="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
           echo "=== 模板 ==="
           ls -la "$HOME/.local/share/godot/export_templates/4.3.stable/" | head -20
@@ -168,5 +170,6 @@ jobs:
           name: failure-logs
           path: |
             export.log
-            .godot/
+            build/preflight.log
+            build/test.pck
           retention-days: 7
