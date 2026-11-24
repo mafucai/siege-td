@@ -1,0 +1,18 @@
+<Texture name="shadow.png" />
+<Images>
+    <Image name="2x2.png" x="1020" y="388" w="320" h="320" refx="76" refy="68" />
+    <Image name="3x3.png" x="1020" y="4" w="388" h="380" refx="96" refy="64" />
+    <Image name="4x4.png" x="4" y="544" w="472" h="472" refx="68" refy="52" />
+    <Image name="5x5.png" x="4" y="4" w="536" h="536" refx="84" refy="84" />
+    <Image name="bigchurch_shadow.png" x="544" y="4" w="472" h="500" refx="76" refy="68" />
+    <Image name="catapulttower_shadow.png" x="996" y="712" w="216" h="184" refx="0" refy="0" />
+    <Image name="magictower_s.png" x="1412" y="340" w="312" h="236" refx="28" refy="-12" />
+    <Image name="pitch.png" x="1780" y="4" w="160" h="128" refx="48" refy="28" />
+    <Image name="tent_large_s.png" x="1412" y="4" w="364" h="332" refx="56" refy="48" />
+    <Image name="trebuchettower_s.png" x="544" y="508" w="448" h="408" refx="60" refy="40" />
+    <Image name="unit_shadow1.png" x="480" y="920" w="168" h="92" refx="88" refy="40" />
+    <Image name="unit_shadow2.png" x="1344" y="580" w="192" h="108" refx="104" refy="52" />
+    <Image name="unit_shadow3.png" x="1780" y="136" w="240" h="104" refx="124" refy="44" />
+    <Image name="unit_shadow4.png" x="1216" y="712" w="272" h="120" refx="140" refy="56" />
+    <Image name="unit_shadow5.png" x="1216" y="836" w="356" h="156" refx="180" refy="72" />
+</Images>

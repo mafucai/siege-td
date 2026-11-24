@@ -1,0 +1,21 @@
+﻿<Texture name="spearman_3e.png" />
+<Images>
+    <Image name="斧兵武器.png" x="4" y="4" w="80" h="256" refx="0" refy="0" />
+    <Image name="斧兵武器效果.png" x="4" y="264" w="148" h="172" refx="0" refy="0" />
+    <Image name="斧兵身体.png" x="88" y="4" w="92" h="112" refx="0" refy="0" />
+    <Image name="斧兵头部.png" x="88" y="120" w="96" h="100" refx="0" refy="0" />
+    <Image name="斧兵前肩.png" x="4" y="440" w="48" h="48" refx="0" refy="0" />
+    <Image name="斧兵后臂.png" x="188" y="4" w="40" h="40" refx="0" refy="0" />
+    <Image name="斧兵前手.png" x="88" y="224" w="44" h="32" refx="0" refy="0" />
+    <Image name="斧兵后手.png" x="184" y="48" w="48" h="36" refx="0" refy="0" />
+    <Image name="斧兵前脚.png" x="156" y="224" w="52" h="36" refx="0" refy="0" />
+    <Image name="斧兵后脚.png" x="156" y="264" w="52" h="36" refx="0" refy="0" />
+    <Image name="斧兵前小腿.png" x="184" y="88" w="24" h="28" refx="0" refy="0" />
+    <Image name="斧兵前脚2.png" x="156" y="304" w="52" h="28" refx="0" refy="0" />
+    <Image name="斧兵前臂.png" x="212" y="88" w="28" h="44" refx="0" refy="0" />
+    <Image name="斧兵前腿.png" x="232" y="4" w="20" h="32" refx="0" refy="0" />
+    <Image name="斧兵前腿2 .png" x="188" y="136" w="24" h="28" refx="0" refy="0" />
+    <Image name="斧兵后脚2.png" x="188" y="168" w="52" h="28" refx="0" refy="0" />
+    <Image name="斧兵后腿.png" x="156" y="336" w="20" h="32" refx="0" refy="0" />
+    <Image name="斧柄后小腿.png" x="216" y="136" w="24" h="28" refx="0" refy="0" />
+</Images>

@@ -1,0 +1,6 @@
+<Texture name="update_hd.png" />
+<Images>
+    <Image name="upgrade_back1.png" x="4" y="4" w="188" h="2208" refx="0" refy="0" />
+    <Image name="upgrade_back3.png" x="4" y="2216" w="3216" h="224" refx="0" refy="0" />
+    <Image name="upgrade_back2.png" x="196" y="4" w="3224" h="520" refx="0" refy="0" />
+</Images>

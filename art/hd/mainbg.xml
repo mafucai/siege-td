@@ -1,0 +1,4 @@
+<Texture name="mainbg.png" />
+<Images>
+    <Image name="mainbg.png" x="0" y="0" w="3840" h="2560" refx="0" refy="0" />
+</Images>

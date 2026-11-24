@@ -1,0 +1,5 @@
+<Texture name="exit_button.png" />
+<Images>
+    <Image name="no.png" x="4" y="4" w="332" h="240" refx="0" refy="0" />
+    <Image name="yes.png" x="4" y="248" w="332" h="240" refx="0" refy="0" />
+</Images>

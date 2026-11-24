@@ -1,0 +1,19 @@
+<Texture name="doodad.png" />
+<Images>
+    <Image name="corpse_female_1.png" x="696" y="896" w="268" h="188" refx="136" refy="100" />
+    <Image name="corpse_female_2.png" x="552" y="1088" w="280" h="208" refx="156" refy="120" />
+    <Image name="corpse_male_1.png" x="236" y="1236" w="272" h="216" refx="128" refy="124" />
+    <Image name="corpse_male_2.png" x="4" y="1456" w="272" h="208" refx="140" refy="124" />
+    <Image name="flag_enemy.png" x="280" y="1456" w="104" h="260" refx="56" refy="228" />
+    <Image name="flag_player.png" x="4" y="1668" w="104" h="260" refx="56" refy="228" />
+    <Image name="house_broken.png" x="804" y="4" w="144" h="336" refx="76" refy="244" />
+    <Image name="sign.png" x="388" y="1456" w="192" h="248" refx="100" refy="200" />
+    <Image name="tree_1.png" x="696" y="468" w="280" h="424" refx="156" refy="388" />
+    <Image name="tree_2.png" x="352" y="4" w="448" h="460" refx="232" refy="412" />
+    <Image name="tree_3.png" x="4" y="496" w="312" h="480" refx="148" refy="428" />
+    <Image name="tree_4.png" x="352" y="468" w="340" h="428" refx="176" refy="392" />
+    <Image name="tree_5.png" x="4" y="980" w="248" h="252" refx="104" refy="232" />
+    <Image name="tree_6.png" x="4" y="4" w="344" h="488" refx="176" refy="404" />
+    <Image name="well.png" x="320" y="900" w="228" h="220" refx="120" refy="96" />
+    <Image name="well_broken.png" x="4" y="1236" w="228" h="216" refx="116" refy="92" />
+</Images>

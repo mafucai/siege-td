@@ -1,0 +1,25 @@
+<Texture name="eff.png" />
+<Images>
+    <Image name="cloud.png" x="4" y="4" w="256" h="256" refx="132" refy="120" />
+    <Image name="cloud1.png" x="264" y="4" w="256" h="256" refx="128" refy="128" />
+    <Image name="cloud2.png" x="524" y="4" w="256" h="256" refx="128" refy="128" />
+    <Image name="cloud3.png" x="4" y="264" w="256" h="256" refx="128" refy="128" />
+    <Image name="cloud4.png" x="264" y="264" w="256" h="256" refx="136" refy="112" />
+    <Image name="ice.png" x="4" y="524" w="256" h="128" refx="128" refy="64" />
+    <Image name="ice_2.png" x="488" y="720" w="512" h="112" refx="60" refy="60" />
+    <Image name="lightshaft.png" x="488" y="836" w="512" h="64" refx="52" refy="32" />
+    <Image name="particle1.png" x="784" y="4" w="128" h="128" refx="64" refy="64" />
+    <Image name="particle2.png" x="264" y="524" w="128" h="128" refx="64" refy="64" />
+    <Image name="particle3.png" x="688" y="264" w="128" h="128" refx="64" refy="64" />
+    <Image name="plume1.png" x="488" y="588" w="292" h="128" refx="280" refy="64" />
+    <Image name="ray0000.png" x="4" y="656" w="480" h="152" refx="44" refy="76" />
+    <Image name="ray0001.png" x="524" y="428" w="480" h="156" refx="64" refy="72" />
+    <Image name="ray0008.png" x="4" y="812" w="480" h="156" refx="16" refy="76" />
+    <Image name="snow.png" x="784" y="136" w="128" h="116" refx="68" refy="60" />
+    <Image name="spark.png" x="524" y="264" w="160" h="160" refx="80" refy="80" />
+    <Image name="stone1.png" x="396" y="524" w="44" h="28" refx="0" refy="0" />
+    <Image name="stone2.png" x="916" y="4" w="44" h="40" refx="0" refy="0" />
+    <Image name="stone3.png" x="964" y="4" w="28" h="24" refx="0" refy="0" />
+    <Image name="wooddust_1.png" x="820" y="256" w="120" h="40" refx="0" refy="0" />
+    <Image name="wooddust_2.png" x="820" y="300" w="128" h="60" refx="0" refy="0" />
+</Images>

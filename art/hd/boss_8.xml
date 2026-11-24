@@ -1,0 +1,37 @@
+﻿<Texture name="boss_8.png" />
+<Images>
+    <Image name="刀.png" x="4" y="4" w="68" h="208" refx="0" refy="0" />
+    <Image name="人头.png" x="76" y="4" w="96" h="152" refx="0" refy="0" />
+    <Image name="人身体.png" x="4" y="216" w="96" h="120" refx="0" refy="0" />
+    <Image name="盾牌.png" x="4" y="340" w="80" h="116" refx="0" refy="0" />
+    <Image name="马头.png" x="104" y="160" w="136" h="116" refx="0" refy="0" />
+    <Image name="马身.png" x="176" y="4" w="188" h="128" refx="0" refy="0" />
+    <Image name="斗篷.png" x="368" y="4" w="92" h="84" refx="0" refy="0" />
+    <Image name="刀鞘.png" x="368" y="92" w="68" h="80" refx="0" refy="0" />
+    <Image name="马尾.png" x="244" y="136" w="68" h="76" refx="0" refy="0" />
+    <Image name="肩甲.png" x="244" y="216" w="56" h="60" refx="0" refy="0" />
+    <Image name="马前大腿.png" x="316" y="136" w="32" h="56" refx="0" refy="0" />
+    <Image name="马后左大腿.png" x="104" y="280" w="32" h="56" refx="0" refy="0" />
+    <Image name="马大腿.png" x="140" y="280" w="32" h="56" refx="0" refy="0" />
+    <Image name="马左前大腿.png" x="176" y="280" w="32" h="56" refx="0" refy="0" />
+    <Image name="马铠甲边缘2.png" x="4" y="460" w="44" h="36" refx="0" refy="0" />
+    <Image name="马铠甲边缘3.png" x="88" y="340" w="48" h="44" refx="0" refy="0" />
+    <Image name="人左手.png" x="352" y="176" w="52" h="36" refx="0" refy="0" />
+    <Image name="人脚.png" x="140" y="340" w="52" h="28" refx="0" refy="0" />
+    <Image name="手.png" x="88" y="388" w="52" h="36" refx="0" refy="0" />
+    <Image name="手臂.png" x="464" y="4" w="28" h="44" refx="0" refy="0" />
+    <Image name="马蹬.png" x="76" y="160" w="24" h="44" refx="0" refy="0" />
+    <Image name="马铠甲边缘.png" x="52" y="460" w="44" h="44" refx="0" refy="0" />
+    <Image name="马后左小腿.png" x="212" y="280" w="24" h="36" refx="0" refy="0" />
+    <Image name="马前小腿.png" x="316" y="196" w="24" h="32" refx="0" refy="0" />
+    <Image name="马前蹄.png" x="464" y="52" w="36" h="28" refx="0" refy="0" />
+    <Image name="马后左蹄.png" x="88" y="428" w="36" h="28" refx="0" refy="0" />
+    <Image name="马小腿.png" x="240" y="280" w="24" h="32" refx="0" refy="0" />
+    <Image name="马左前小腿.png" x="440" y="92" w="24" h="32" refx="0" refy="0" />
+    <Image name="马左手臂.png" x="344" y="216" w="32" h="32" refx="0" refy="0" />
+    <Image name="马左前蹄.png" x="468" y="84" w="36" h="28" refx="0" refy="0" />
+    <Image name="马蹄.png" x="268" y="280" w="36" h="28" refx="0" refy="0" />
+    <Image name="马铃.png" x="240" y="316" w="28" h="32" refx="0" refy="0" />
+    <Image name="人大腿.png" x="128" y="428" w="16" h="24" refx="0" refy="0" />
+    <Image name="人小腿.png" x="304" y="232" w="24" h="24" refx="0" refy="0" />
+</Images>

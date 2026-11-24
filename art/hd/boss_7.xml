@@ -1,0 +1,39 @@
+﻿<Texture name="boss_7.png" />
+<Images>
+    <Image name="元件 18.png" x="4" y="4" w="220" h="300" refx="0" refy="0" />
+    <Image name="元件 15.png" x="228" y="4" w="236" h="296" refx="0" refy="0" />
+    <Image name="元件 21.png" x="4" y="308" w="228" h="296" refx="0" refy="0" />
+    <Image name="元件 10.png" x="4" y="608" w="248" h="284" refx="0" refy="0" />
+    <Image name="元件 23.png" x="236" y="304" w="104" h="192" refx="0" refy="0" />
+    <Image name="补间 1.png" x="344" y="304" w="68" h="192" refx="0" refy="0" />
+    <Image name="元件 17.png" x="256" y="500" w="108" h="180" refx="0" refy="0" />
+    <Image name="元件 14.png" x="368" y="500" w="136" h="168" refx="0" refy="0" />
+    <Image name="元件 11.png" x="256" y="684" w="140" h="160" refx="0" refy="0" />
+    <Image name="元件 16.png" x="256" y="848" w="160" h="156" refx="0" refy="0" />
+    <Image name="元件 20.png" x="468" y="4" w="164" h="160" refx="0" refy="0" />
+    <Image name="元件 19.png" x="636" y="4" w="172" h="136" refx="0" refy="0" />
+    <Image name="元件 22.png" x="4" y="896" w="184" h="124" refx="0" refy="0" />
+    <Image name="元件 9.png" x="812" y="4" w="192" h="140" refx="0" refy="0" />
+    <Image name="右刀.png" x="636" y="144" w="88" h="180" refx="0" refy="0" />
+    <Image name="元件 24.png" x="468" y="168" w="124" h="100" refx="0" refy="0" />
+    <Image name="头.png" x="416" y="304" w="96" h="120" refx="0" refy="0" />
+    <Image name="补间 7.png" x="516" y="328" w="124" h="104" refx="0" refy="0" />
+    <Image name="元件 13.png" x="644" y="328" w="76" h="96" refx="0" refy="0" />
+    <Image name="元件 12.png" x="508" y="436" w="80" h="92" refx="0" refy="0" />
+    <Image name="上半身.png" x="592" y="436" w="80" h="80" refx="0" refy="0" />
+    <Image name="元件 5.png" x="728" y="144" w="44" h="72" refx="0" refy="0" />
+    <Image name="元件 1.png" x="416" y="428" w="52" h="68" refx="0" refy="0" />
+    <Image name="刀鞘.png" x="728" y="220" w="76" h="64" refx="0" refy="0" />
+    <Image name="右肩.png" x="808" y="148" w="56" h="60" refx="0" refy="0" />
+    <Image name="补间 5.png" x="868" y="148" w="44" h="44" refx="0" refy="0" />
+    <Image name="补间 3.png" x="808" y="212" w="60" h="40" refx="0" refy="0" />
+    <Image name="元件 2.png" x="236" y="500" w="16" h="36" refx="0" refy="0" />
+    <Image name="元件 3.png" x="728" y="288" w="56" h="32" refx="0" refy="0" />
+    <Image name="元件 8.png" x="400" y="672" w="60" h="32" refx="0" refy="0" />
+    <Image name="右上臂.png" x="596" y="168" w="32" h="48" refx="0" refy="0" />
+    <Image name="右手.png" x="788" y="288" w="68" h="48" refx="0" refy="0" />
+    <Image name="头羽毛.png" x="916" y="148" w="68" h="56" refx="0" refy="0" />
+    <Image name="元件 4.png" x="596" y="220" w="28" h="28" refx="0" refy="0" />
+    <Image name="元件 6.png" x="596" y="252" w="20" h="28" refx="0" refy="0" />
+    <Image name="元件 7.png" x="468" y="272" w="28" h="28" refx="0" refy="0" />
+</Images>

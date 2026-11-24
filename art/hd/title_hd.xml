@@ -1,0 +1,7 @@
+<Texture name="title_hd.png" />
+<Images>
+    <Image name="title_fortress.png" x="940" y="4" w="2308" h="448" refx="0" refy="0" />
+    <Image name="title_siege.png" x="4" y="948" w="2492" h="1036" refx="0" refy="0" />
+    <Image name="title_under.png" x="4" y="4" w="932" h="824" refx="0" refy="0" />
+    <Image name="title_under2.png" x="4" y="832" w="1588" h="112" refx="0" refy="0" />
+</Images>

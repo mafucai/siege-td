@@ -1,0 +1,20 @@
+﻿<Texture name="swordsman_1a.png" />
+<Images>
+    <Image name="剑 .png" x="4" y="4" w="68" h="196" refx="0" refy="0" />
+    <Image name="头.png" x="76" y="4" w="100" h="100" refx="0" refy="0" />
+    <Image name="盔甲.png" x="76" y="108" w="76" h="100" refx="0" refy="0" />
+    <Image name="盾牌.png" x="156" y="108" w="84" h="84" refx="0" refy="0" />
+    <Image name="剑壳.png" x="180" y="4" w="68" h="72" refx="0" refy="0" />
+    <Image name="披风.png" x="252" y="4" w="76" h="72" refx="0" refy="0" />
+    <Image name="肩甲.png" x="156" y="196" w="48" h="52" refx="0" refy="0" />
+    <Image name="右上臂.png" x="4" y="204" w="28" h="44" refx="0" refy="0" />
+    <Image name="左上臂.png" x="36" y="212" w="40" h="40" refx="0" refy="0" />
+    <Image name="左小臂.png" x="332" y="4" w="48" h="36" refx="0" refy="0" />
+    <Image name="右大腿.png" x="80" y="212" w="20" h="32" refx="0" refy="0" />
+    <Image name="右小臂.png" x="244" y="80" w="44" h="32" refx="0" refy="0" />
+    <Image name="左大腿.png" x="104" y="212" w="20" h="32" refx="0" refy="0" />
+    <Image name="右小腿.png" x="128" y="212" w="24" h="28" refx="0" refy="0" />
+    <Image name="右脚.png" x="292" y="80" w="56" h="28" refx="0" refy="0" />
+    <Image name="左小腿.png" x="292" y="112" w="24" h="28" refx="0" refy="0" />
+    <Image name="左脚.png" x="384" y="4" w="56" h="28" refx="0" refy="0" />
+</Images>

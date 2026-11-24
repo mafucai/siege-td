@@ -1,0 +1,16 @@
+﻿<Texture name="slave_a.png" />
+<Images>
+    <Image name="武器.png" x="4" y="4" w="52" h="172" refx="0" refy="0" />
+    <Image name="头盔.png" x="60" y="4" w="92" h="100" refx="0" refy="0" />
+    <Image name="身体.png" x="156" y="4" w="68" h="88" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="4" y="180" w="32" h="60" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="60" y="108" w="40" h="40" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="156" y="96" w="44" h="32" refx="0" refy="0" />
+    <Image name="前腿.png" x="104" y="108" w="20" h="32" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="60" y="152" w="44" h="32" refx="0" refy="0" />
+    <Image name="后退.png" x="128" y="108" w="20" h="32" refx="0" refy="0" />
+    <Image name="前脚上部.png" x="228" y="4" w="20" h="28" refx="0" refy="0" />
+    <Image name="后脚.png" x="152" y="132" w="52" h="24" refx="0" refy="0" />
+    <Image name="后脚上部.png" x="228" y="36" w="20" h="28" refx="0" refy="0" />
+    <Image name="补间 1.png" x="40" y="188" w="52" h="24" refx="0" refy="0" />
+</Images>

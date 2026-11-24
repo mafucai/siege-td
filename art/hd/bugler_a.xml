@@ -1,0 +1,22 @@
+﻿<Texture name="bugler_a.png" />
+<Images>
+    <Image name="武器.png" x="4" y="4" w="116" h="296" refx="0" refy="0" />
+    <Image name="武器6.png" x="124" y="4" w="20" h="296" refx="0" refy="0" />
+    <Image name="武器5.png" x="4" y="304" w="116" h="116" refx="0" refy="0" />
+    <Image name="武器4.png" x="148" y="4" w="72" h="112" refx="0" refy="0" />
+    <Image name="身体.png" x="124" y="304" w="104" h="112" refx="0" refy="0" />
+    <Image name="头盔.png" x="148" y="120" w="100" h="100" refx="0" refy="0" />
+    <Image name="肩甲.png" x="4" y="424" w="48" h="52" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="148" y="224" w="40" h="40" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="192" y="224" w="44" h="32" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="224" y="4" w="28" h="44" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="124" y="420" w="48" h="36" refx="0" refy="0" />
+    <Image name="前脚.png" x="148" y="268" w="56" h="32" refx="0" refy="0" />
+    <Image name="前脚掌.png" x="56" y="424" w="56" h="28" refx="0" refy="0" />
+    <Image name="后脚.png" x="56" y="456" w="56" h="36" refx="0" refy="0" />
+    <Image name="前腿.png" x="224" y="52" w="20" h="32" refx="0" refy="0" />
+    <Image name="前脚腕.png" x="224" y="88" w="24" h="28" refx="0" refy="0" />
+    <Image name="后脚掌.png" x="116" y="460" w="56" h="28" refx="0" refy="0" />
+    <Image name="后腿.png" x="208" y="260" w="20" h="32" refx="0" refy="0" />
+    <Image name="后脚腕.png" x="4" y="480" w="24" h="28" refx="0" refy="0" />
+</Images>

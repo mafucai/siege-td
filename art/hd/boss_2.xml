@@ -1,0 +1,25 @@
+﻿<Texture name="boss_2.png" />
+<Images>
+    <Image name="元件 14.png" x="4" y="4" w="88" h="124" refx="0" refy="0" />
+    <Image name="元件 8.png" x="4" y="132" w="120" h="116" refx="0" refy="0" />
+    <Image name="元件 23.png" x="96" y="4" w="76" h="84" refx="0" refy="0" />
+    <Image name="元件 6.png" x="176" y="4" w="20" h="72" refx="0" refy="0" />
+    <Image name="元件 7.png" x="200" y="4" w="20" h="72" refx="0" refy="0" />
+    <Image name="元件 2.png" x="128" y="92" w="56" h="64" refx="0" refy="0" />
+    <Image name="元件 13.png" x="224" y="4" w="24" h="52" refx="0" refy="0" />
+    <Image name="元件 11.png" x="188" y="80" w="32" h="44" refx="0" refy="0" />
+    <Image name="元件 4.png" x="128" y="160" w="32" h="44" refx="0" refy="0" />
+    <Image name="元件 22.png" x="188" y="128" w="40" h="40" refx="0" refy="0" />
+    <Image name="元件 5.png" x="128" y="208" w="108" h="40" refx="0" refy="0" />
+    <Image name="元件 10.png" x="252" y="4" w="36" h="36" refx="0" refy="0" />
+    <Image name="元件 12.png" x="224" y="60" w="40" h="32" refx="0" refy="0" />
+    <Image name="元件 9.png" x="292" y="4" w="40" h="36" refx="0" refy="0" />
+    <Image name="元件 21.png" x="336" y="4" w="52" h="36" refx="0" refy="0" />
+    <Image name="元件 15.png" x="164" y="172" w="56" h="32" refx="0" refy="0" />
+    <Image name="元件 18.png" x="268" y="44" w="56" h="32" refx="0" refy="0" />
+    <Image name="元件 3.png" x="232" y="96" w="60" h="32" refx="0" refy="0" />
+    <Image name="元件 16.png" x="96" y="92" w="28" h="28" refx="0" refy="0" />
+    <Image name="元件 17.png" x="232" y="132" w="12" h="28" refx="0" refy="0" />
+    <Image name="元件 19.png" x="328" y="44" w="28" h="28" refx="0" refy="0" />
+    <Image name="元件 20.png" x="240" y="164" w="12" h="28" refx="0" refy="0" />
+</Images>
