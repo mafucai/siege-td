@@ -1,0 +1,20 @@
+﻿<Texture name="spearman_1e.png" />
+<Images>
+    <Image name="武器2.png" x="1" y="1" w="51" h="63" refx="0" refy="0" />
+    <Image name="武器.png" x="1" y="65" w="9" h="59" refx="0" refy="0" />
+    <Image name="头盔.png" x="11" y="65" w="30" h="26" refx="0" refy="0" />
+    <Image name="身体.png" x="42" y="65" w="21" h="25" refx="0" refy="0" />
+    <Image name="肩甲.png" x="53" y="1" w="10" h="12" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="53" y="14" w="10" h="10" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="11" y="92" w="12" h="8" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="24" y="92" w="7" h="11" refx="0" refy="0" />
+    <Image name="前脚.png" x="32" y="92" w="13" h="9" refx="0" refy="0" />
+    <Image name="前脚掌.png" x="11" y="104" w="13" h="7" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="11" y="112" w="13" h="9" refx="0" refy="0" />
+    <Image name="后脚.png" x="25" y="104" w="13" h="9" refx="0" refy="0" />
+    <Image name="前腿.png" x="53" y="25" w="5" h="8" refx="0" refy="0" />
+    <Image name="前脚腕.png" x="53" y="34" w="6" h="7" refx="0" refy="0" />
+    <Image name="后脚掌.png" x="46" y="91" w="13" h="7" refx="0" refy="0" />
+    <Image name="后腿.png" x="53" y="42" w="5" h="8" refx="0" refy="0" />
+    <Image name="后脚腕.png" x="53" y="51" w="6" h="7" refx="0" refy="0" />
+</Images>

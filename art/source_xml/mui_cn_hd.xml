@@ -1,0 +1,19 @@
+<Texture name="mui_cn_hd.png" />
+<Images>
+    <Image name="button_about.png" x="240" y="208" w="60" h="34" refx="-1" refy="0" />
+    <Image name="button_about_press.png" x="240" y="256" w="110" h="74" refx="8" refy="9" />
+    <Image name="button_crusader.png" x="247" y="82" w="158" h="40" refx="-1" refy="1" />
+    <Image name="button_crusader_lock.png" x="131" y="130" w="158" h="40" refx="-1" refy="1" />
+    <Image name="button_crusader_press.png" x="1" y="333" w="205" h="85" refx="25" refy="26" />
+    <Image name="button_glorymode.png" x="117" y="89" w="129" h="40" refx="0" refy="0" />
+    <Image name="button_glorymode_lock.png" x="1" y="164" w="129" h="40" refx="0" refy="0" />
+    <Image name="button_glorymode_press.png" x="290" y="123" w="176" h="87" refx="26" refy="26" />
+    <Image name="button_help.png" x="1" y="123" w="69" h="40" refx="-1" refy="0" />
+    <Image name="button_help_press.png" x="117" y="1" w="117" h="87" refx="25" refy="26" />
+    <Image name="button_moregames.png" x="1" y="1" w="106" h="34" refx="0" refy="0" />
+    <Image name="button_moregames_press.png" x="235" y="1" w="152" h="80" refx="25" refy="25" />
+    <Image name="button_options_m.png" x="131" y="171" w="68" h="40" refx="-1" refy="0" />
+    <Image name="button_options_m_press.png" x="1" y="36" w="115" h="86" refx="25" refy="25" />
+    <Image name="button_storymode.png" x="1" y="205" w="129" h="40" refx="-1" refy="0" />
+    <Image name="button_storymode_press.png" x="1" y="246" w="176" h="86" refx="25" refy="25" />
+</Images>

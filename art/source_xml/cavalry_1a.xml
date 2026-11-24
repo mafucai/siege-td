@@ -1,0 +1,36 @@
+﻿<Texture name="cavalry_1a.png" />
+<Images>
+    <Image name="元件 4.png" x="1" y="1" w="61" h="97" refx="0" refy="0" />
+    <Image name="元件 3.png" x="1" y="99" w="102" h="58" refx="0" refy="0" />
+    <Image name="刀.png" x="63" y="1" w="17" h="48" refx="0" refy="0" />
+    <Image name="骆驼身体.png" x="1" y="158" w="47" h="35" refx="0" refy="0" />
+    <Image name="头.png" x="81" y="1" w="25" h="32" refx="0" refy="0" />
+    <Image name="骆驼头.png" x="63" y="50" w="31" h="30" refx="0" refy="0" />
+    <Image name="元件 5.png" x="95" y="34" w="29" h="29" refx="0" refy="0" />
+    <Image name="骑兵盾牌.png" x="104" y="64" w="23" h="29" refx="0" refy="0" />
+    <Image name="骆驼脖子.png" x="107" y="1" w="18" h="25" refx="0" refy="0" />
+    <Image name="骑兵身体.png" x="1" y="194" w="24" h="24" refx="0" refy="0" />
+    <Image name="骑兵衣服.png" x="49" y="158" w="23" h="21" refx="0" refy="0" />
+    <Image name="前左上腿.png" x="95" y="64" w="8" h="19" refx="0" refy="0" />
+    <Image name="后左上腿.png" x="104" y="94" w="8" h="19" refx="0" refy="0" />
+    <Image name="骑兵刀鞘.png" x="1" y="219" w="20" h="18" refx="0" refy="0" />
+    <Image name="前右上腿.png" x="63" y="81" w="8" h="17" refx="0" refy="0" />
+    <Image name="后右上腿.png" x="72" y="81" w="8" h="17" refx="0" refy="0" />
+    <Image name="前右中腿.png" x="81" y="34" w="6" h="13" refx="0" refy="0" />
+    <Image name="前左中腿.png" x="88" y="34" w="6" h="13" refx="0" refy="0" />
+    <Image name="后右中腿.png" x="81" y="81" w="6" h="13" refx="0" refy="0" />
+    <Image name="后左中腿.png" x="88" y="81" w="6" h="13" refx="0" refy="0" />
+    <Image name="补间 1.png" x="113" y="94" w="12" h="13" refx="0" refy="0" />
+    <Image name="前右脚.png" x="104" y="114" w="9" h="11" refx="0" refy="0" />
+    <Image name="前左脚.png" x="26" y="194" w="9" h="11" refx="0" refy="0" />
+    <Image name="后右脚.png" x="49" y="180" w="9" h="11" refx="0" refy="0" />
+    <Image name="后左脚.png" x="114" y="108" w="9" h="11" refx="0" refy="0" />
+    <Image name="骑兵左前臂.png" x="73" y="158" w="10" h="10" refx="0" refy="0" />
+    <Image name="补间 3.png" x="36" y="194" w="12" h="9" refx="0" refy="0" />
+    <Image name="补间 5.png" x="104" y="126" w="12" h="12" refx="0" refy="0" />
+    <Image name="骑兵左手.png" x="1" y="238" w="12" h="9" refx="0" refy="0" />
+    <Image name="骑兵右脚.png" x="26" y="206" w="14" h="7" refx="0" refy="0" />
+    <Image name="补间 7.png" x="22" y="219" w="29" h="11" refx="0" refy="0" />
+    <Image name="骆驼尾巴.png" x="59" y="180" w="6" h="22" refx="0" refy="0" />
+    <Image name="骑兵右腿.png" x="107" y="27" w="6" h="5" refx="0" refy="0" />
+</Images>

@@ -1,0 +1,23 @@
+<Texture name="uinum_hd.png" />
+<Images>
+    <Image name="money_num_large_0.png" x="98" y="65" w="22" h="28" refx="0" refy="0" />
+    <Image name="money_num_large_1.png" x="231" y="83" w="20" h="25" refx="1" refy="0" />
+    <Image name="money_num_large_2.png" x="193" y="29" w="21" h="26" refx="0" refy="-1" />
+    <Image name="money_num_large_3.png" x="171" y="1" w="19" h="27" refx="0" refy="0" />
+    <Image name="money_num_large_4.png" x="191" y="1" w="24" h="27" refx="0" refy="0" />
+    <Image name="money_num_large_5.png" x="92" y="94" w="21" h="28" refx="0" refy="0" />
+    <Image name="money_num_large_6.png" x="144" y="87" w="27" h="26" refx="4" refy="0" />
+    <Image name="money_num_large_7.png" x="120" y="1" w="28" h="28" refx="5" refy="0" />
+    <Image name="money_num_large_8.png" x="98" y="35" w="21" h="29" refx="0" refy="1" />
+    <Image name="money_num_large_9.png" x="149" y="1" w="21" h="28" refx="0" refy="0" />
+    <Image name="money_num_small_0.png" x="56" y="154" w="17" h="19" refx="1" refy="0" />
+    <Image name="money_num_small_1.png" x="74" y="148" w="16" h="19" refx="0" refy="1" />
+    <Image name="money_num_small_2.png" x="41" y="180" w="16" h="18" refx="2" refy="0" />
+    <Image name="money_num_small_3.png" x="41" y="199" w="12" h="17" refx="0" refy="0" />
+    <Image name="money_num_small_4.png" x="104" y="123" w="16" h="18" refx="0" refy="0" />
+    <Image name="money_num_small_5.png" x="16" y="207" w="14" h="19" refx="0" refy="1" />
+    <Image name="money_num_small_6.png" x="16" y="227" w="14" h="17" refx="0" refy="0" />
+    <Image name="money_num_small_7.png" x="121" y="116" w="14" h="18" refx="0" refy="1" />
+    <Image name="money_num_small_8.png" x="1" y="230" w="13" h="18" refx="0" refy="1" />
+    <Image name="money_num_small_9.png" x="58" y="174" w="14" h="18" refx="0" refy="1" />
+</Images>

@@ -1,0 +1,13 @@
+﻿<Texture name="ballista_2.png" />
+<Images>
+    <Image name="底座.png" x="1" y="1" w="45" h="35" refx="0" refy="0" />
+    <Image name="元件 5.png" x="47" y="1" w="10" h="29" refx="0" refy="0" />
+    <Image name="元件 6.png" x="1" y="37" w="12" h="23" refx="0" refy="0" />
+    <Image name="元件 1.png" x="47" y="31" w="16" h="21" refx="0" refy="0" />
+    <Image name="元件 4.png" x="14" y="37" w="13" h="20" refx="0" refy="0" />
+    <Image name="发射管.png" x="58" y="1" w="52" h="20" refx="0" refy="0" />
+    <Image name="元件 7.png" x="28" y="37" w="12" h="16" refx="0" refy="0" />
+    <Image name="元件 3.png" x="64" y="22" w="11" h="11" refx="0" refy="0" />
+    <Image name="箭.png" x="64" y="34" w="62" h="11" refx="0" refy="0" />
+    <Image name="元件 2.png" x="41" y="53" w="7" h="6" refx="0" refy="0" />
+</Images>

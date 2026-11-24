@@ -1,0 +1,5 @@
+<Texture name="ui2.png" />
+<Images>
+    <Image name="button_horse.png" x="253" y="1" w="85" h="84" refx="2" refy="1" />
+    <Image name="button_horse_press.png" x="1" y="111" w="103" h="99" refx="14" refy="9" />
+</Images>

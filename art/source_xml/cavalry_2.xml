@@ -1,0 +1,35 @@
+﻿<Texture name="cavalry_2.png" />
+<Images>
+    <Image name="武器.png" x="1" y="1" w="11" h="68" refx="0" refy="0" />
+    <Image name="马身.png" x="1" y="70" w="43" h="33" refx="0" refy="0" />
+    <Image name="头盔.png" x="13" y="1" w="23" h="26" refx="0" refy="0" />
+    <Image name="马头.png" x="13" y="28" w="27" h="24" refx="0" refy="0" />
+    <Image name="身体.png" x="1" y="104" w="19" h="23" refx="0" refy="0" />
+    <Image name="盾牌.png" x="41" y="1" w="21" h="22" refx="0" refy="0" />
+    <Image name="披风.png" x="41" y="24" w="15" h="21" refx="0" refy="0" />
+    <Image name="披风2.png" x="45" y="46" w="13" h="18" refx="0" refy="0" />
+    <Image name="马尾.png" x="45" y="65" w="16" h="18" refx="0" refy="0" />
+    <Image name="肩甲.png" x="13" y="53" w="12" h="14" refx="0" refy="0" />
+    <Image name="前脚.png" x="26" y="53" w="12" h="8" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="21" y="104" w="13" h="9" refx="0" refy="0" />
+    <Image name="脚蹬.png" x="57" y="24" w="6" h="11" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="39" y="53" w="5" h="10" refx="0" refy="0" />
+    <Image name="马缰绳.png" x="21" y="114" w="27" h="10" refx="0" refy="0" />
+    <Image name="马腿1上.png" x="45" y="84" w="8" h="13" refx="0" refy="0" />
+    <Image name="马腿2上.png" x="54" y="84" w="8" h="12" refx="0" refy="0" />
+    <Image name="马腿3上.png" x="45" y="98" w="5" h="11" refx="0" refy="0" />
+    <Image name="马腿4上.png" x="49" y="110" w="7" h="11" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="35" y="104" w="7" h="8" refx="0" refy="0" />
+    <Image name="马腿1下.png" x="57" y="36" w="6" h="7" refx="0" refy="0" />
+    <Image name="马腿1蹄.png" x="26" y="62" w="8" h="7" refx="0" refy="0" />
+    <Image name="马腿2下.png" x="51" y="98" w="5" h="7" refx="0" refy="0" />
+    <Image name="马腿2蹄.png" x="63" y="1" w="8" h="7" refx="0" refy="0" />
+    <Image name="马腿3下.png" x="72" y="1" w="6" h="7" refx="0" refy="0" />
+    <Image name="马腿3蹄.png" x="79" y="1" w="8" h="7" refx="0" refy="0" />
+    <Image name="马腿4下.png" x="63" y="9" w="6" h="7" refx="0" refy="0" />
+    <Image name="马腿4蹄.png" x="70" y="9" w="8" h="7" refx="0" refy="0" />
+    <Image name="前腿.png" x="37" y="1" w="3" h="6" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="63" y="17" w="10" h="6" refx="0" refy="0" />
+    <Image name="后脚.png" x="74" y="17" w="10" h="6" refx="0" refy="0" />
+    <Image name="后腿.png" x="41" y="46" w="3" h="6" refx="0" refy="0" />
+</Images>

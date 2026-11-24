@@ -1,0 +1,5 @@
+<Texture name="uioptions.png" />
+<Images>
+    <Image name="button_resetgame.png" x="1" y="210" w="161" h="163" refx="26" refy="23" />
+    <Image name="button_resetgame_press.png" x="1" y="1" w="209" h="208" refx="54" refy="51" />
+</Images>

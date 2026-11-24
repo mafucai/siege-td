@@ -1,0 +1,8 @@
+﻿<Texture name="trebuchet_1.png" />
+<Images>
+    <Image name="投石机 1.png" x="1" y="1" w="45" h="84" refx="0" refy="0" />
+    <Image name="投石机2.png" x="47" y="1" w="45" h="80" refx="0" refy="0" />
+    <Image name="投石机0.png" x="1" y="86" w="72" h="20" refx="0" refy="0" />
+    <Image name="投石机4.png" x="93" y="1" w="18" h="25" refx="0" refy="0" />
+    <Image name="投石机3.png" x="93" y="27" w="19" h="16" refx="0" refy="0" />
+</Images>

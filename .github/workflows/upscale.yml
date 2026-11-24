@@ -1,0 +1,108 @@
+name: 图片高清化（代码渲染）
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'art/source_png/**'
+      - 'art/source_xml/**'
+      - 'tools/batch_upscale.py'
+      - 'tools/upscale_algos.py'
+      - '.github/workflows/upscale.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  FACTOR_BIG: 2
+  FACTOR_SMALL: 4
+
+jobs:
+  upscale:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: |
+          python3 -m pip install --quiet --upgrade pip
+          python3 -m pip install --quiet pillow numpy
+          python3 -c "import PIL, numpy; print('Pillow', PIL.__version__, '/ numpy', numpy.__version__)"
+
+      - name: Show input
+        run: |
+          echo "=== 源图 ==="
+          ls art/source_png/*.png 2>/dev/null | wc -l
+          du -sh art/source_png 2>/dev/null || true
+          echo "=== 图集 xml ==="
+          ls art/source_xml/*.xml 2>/dev/null | wc -l
+          du -sh art/source_xml 2>/dev/null || true
+
+      - name: Run upscale
+        run: |
+          set -euo pipefail
+          mkdir -p art/hd
+          python3 tools/batch_upscale.py \
+            --in art/source_png \
+            --xml art/source_xml \
+            --out art/hd
+
+      - name: Verify output
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import glob, os, json
+          from PIL import Image
+          files = sorted(glob.glob('art/hd/*.png'))
+          print('输出 %d 张' % len(files))
+          total = sum(os.path.getsize(f) for f in files)
+          print('总体积 %.1f MB' % (total / 1048576))
+          bad = []
+          for f in files:
+              try:
+                  im = Image.open(f)
+                  if im.width > 4096 or im.height > 4096:
+                      bad.append((f, im.size))
+              except Exception as e:
+                  bad.append((f, str(e)))
+          if bad:
+              print('异常文件:')
+              for f, e in bad:
+                  print(' ', f, e)
+              raise SystemExit(1)
+          rep = json.load(open('art/hd/_report.json', encoding='utf-8'))
+          print('报告:', rep['stats'], '耗时', rep['elapsed_sec'], '秒')
+          PY
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: hd-assets
+          path: |
+            art/hd/*.png
+            art/hd/*.xml
+            art/hd/_report.json
+          retention-days: 30
+          compression-level: 0
+
+      - name: Commit result (可选，方便直接进游戏)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain art/hd 2>/dev/null)" ]; then
+            echo "无变化，跳过提交"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add art/hd
+          git commit -m "chore: 自动生成高清资源（代码渲染）"
+          git push

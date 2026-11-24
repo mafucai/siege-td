@@ -1,0 +1,20 @@
+﻿<Texture name="knight_2.png" />
+<Images>
+    <Image name="武器.png" x="1" y="1" w="17" h="50" refx="0" refy="0" />
+    <Image name="骑士武器效果.png" x="19" y="1" w="37" h="43" refx="0" refy="0" />
+    <Image name="身体.png" x="1" y="52" w="24" h="33" refx="0" refy="0" />
+    <Image name="头盔.png" x="1" y="86" w="22" h="25" refx="0" refy="0" />
+    <Image name="盾牌.png" x="26" y="45" w="21" h="22" refx="0" refy="0" />
+    <Image name="披风.png" x="26" y="68" w="19" h="21" refx="0" refy="0" />
+    <Image name="肩甲.png" x="1" y="112" w="12" h="14" refx="0" refy="0" />
+    <Image name="前脚.png" x="48" y="45" w="12" h="7" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="48" y="53" w="13" h="9" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="24" y="90" w="7" h="11" refx="0" refy="0" />
+    <Image name="前腿.png" x="57" y="1" w="5" h="8" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="48" y="63" w="12" h="8" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="46" y="72" w="7" h="8" refx="0" refy="0" />
+    <Image name="后脚.png" x="46" y="81" w="12" h="7" refx="0" refy="0" />
+    <Image name="后腿.png" x="57" y="10" w="5" h="8" refx="0" refy="0" />
+    <Image name="前脚脖.png" x="19" y="45" w="6" h="6" refx="0" refy="0" />
+    <Image name="后脚脖.png" x="57" y="19" w="6" h="6" refx="0" refy="0" />
+</Images>

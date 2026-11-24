@@ -1,0 +1,4 @@
+<Texture name="optionsbg.png" />
+<Images>
+    <Image name="optionsbg.png" x="0" y="0" w="960" h="640" refx="0" refy="0" />
+</Images>

@@ -1,0 +1,20 @@
+﻿<Texture name="hammer.png" />
+<Images>
+    <Image name="武器1.png" x="1" y="1" w="21" h="40" refx="0" refy="0" />
+    <Image name="武器2.png" x="23" y="1" w="17" h="37" refx="0" refy="0" />
+    <Image name="武器3.png" x="41" y="1" w="16" h="35" refx="0" refy="0" />
+    <Image name="头盔.png" x="1" y="42" w="24" h="30" refx="0" refy="0" />
+    <Image name="身体.png" x="41" y="37" w="20" h="24" refx="0" refy="0" />
+    <Image name="石头.png" x="1" y="73" w="18" h="18" refx="0" refy="0" />
+    <Image name="肩甲.png" x="26" y="39" w="13" h="15" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="26" y="62" w="10" h="10" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="20" y="73" w="11" h="8" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="1" y="92" w="7" h="11" refx="0" refy="0" />
+    <Image name="前脚.png" x="37" y="62" w="14" h="7" refx="0" refy="0" />
+    <Image name="前腿.png" x="58" y="1" w="5" h="8" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="20" y="82" w="11" h="8" refx="0" refy="0" />
+    <Image name="后腿.png" x="58" y="10" w="5" h="8" refx="0" refy="0" />
+    <Image name="前脚脖.png" x="9" y="92" w="6" h="7" refx="0" refy="0" />
+    <Image name="后脚.png" x="32" y="73" w="13" h="7" refx="0" refy="0" />
+    <Image name="后脚脖.png" x="1" y="104" w="6" h="7" refx="0" refy="0" />
+</Images>

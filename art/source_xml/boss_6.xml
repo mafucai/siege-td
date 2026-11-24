@@ -1,0 +1,18 @@
+﻿<Texture name="boss_6.png" />
+<Images>
+    <Image name="武器.png" x="1" y="1" w="13" h="52" refx="0" refy="0" />
+    <Image name="披风.png" x="15" y="1" w="29" h="36" refx="0" refy="0" />
+    <Image name="身体.png" x="1" y="54" w="27" h="36" refx="0" refy="0" />
+    <Image name="头盔.png" x="1" y="91" w="27" h="33" refx="0" refy="0" />
+    <Image name="肩甲.png" x="45" y="1" w="16" h="21" refx="0" refy="0" />
+    <Image name="后脚.png" x="15" y="38" w="15" h="8" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="29" y="47" w="18" h="12" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="45" y="23" w="9" h="15" refx="0" refy="0" />
+    <Image name="前腿.png" x="55" y="23" w="6" h="11" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="48" y="39" w="15" h="10" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="48" y="50" w="10" h="11" refx="0" refy="0" />
+    <Image name="前小腿.png" x="31" y="38" w="8" h="8" refx="0" refy="0" />
+    <Image name="前脚.png" x="29" y="62" w="15" h="8" refx="0" refy="0" />
+    <Image name="后小腿.png" x="45" y="62" w="8" h="8" refx="0" refy="0" />
+    <Image name="后腿.png" x="54" y="62" w="4" h="8" refx="0" refy="0" />
+</Images>

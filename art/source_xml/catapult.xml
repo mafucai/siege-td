@@ -1,0 +1,16 @@
+﻿<Texture name="catapult.png" />
+<Images>
+    <Image name="速度.png" x="1" y="1" w="32" h="33" refx="0" refy="0" />
+    <Image name="投石车底盘.png" x="1" y="35" w="58" h="27" refx="0" refy="0" />
+    <Image name="投石车前支架.png" x="34" y="1" w="26" h="26" refx="0" refy="0" />
+    <Image name="投石车后支架.png" x="61" y="1" w="26" h="26" refx="0" refy="0" />
+    <Image name="投石车2.png" x="60" y="28" w="24" h="25" refx="0" refy="0" />
+    <Image name="投石车3.png" x="88" y="1" w="25" h="25" refx="0" refy="0" />
+    <Image name="车轮1.png" x="85" y="28" w="22" h="21" refx="0" refy="0" />
+    <Image name="投石车1.png" x="108" y="27" w="19" h="14" refx="0" refy="0" />
+    <Image name="投石车石箱.png" x="108" y="42" w="19" h="18" refx="0" refy="0" />
+    <Image name="投石车发射器.png" x="1" y="63" w="77" h="16" refx="0" refy="0" />
+    <Image name="投石车横杆.png" x="1" y="80" w="12" h="22" refx="0" refy="0" />
+    <Image name="投石车转盘.png" x="14" y="80" w="14" h="16" refx="0" refy="0" />
+    <Image name="车轮2.png" x="29" y="80" w="10" h="10" refx="0" refy="0" />
+</Images>

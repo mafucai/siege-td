@@ -1,0 +1,36 @@
+<Texture name="obj.png" />
+<Images>
+    <Image name="archer_arrow1.png" x="101" y="94" w="27" h="6" refx="26" refy="3" />
+    <Image name="archer_arrow1_r.png" x="26" y="112" w="24" h="6" refx="23" refy="3" />
+    <Image name="archer_arrow1e.png" x="76" y="101" w="27" h="6" refx="25" refy="3" />
+    <Image name="archer_arrow1e_r.png" x="1" y="116" w="24" h="6" refx="22" refy="3" />
+    <Image name="archer_arrow2.png" x="104" y="101" w="27" h="6" refx="26" refy="3" />
+    <Image name="archer_arrow2_r.png" x="76" y="94" w="24" h="6" refx="23" refy="3" />
+    <Image name="archer_arrow2e.png" x="76" y="108" w="27" h="6" refx="25" refy="3" />
+    <Image name="archer_arrow2e_r.png" x="51" y="107" w="24" h="6" refx="23" refy="3" />
+    <Image name="arrow1.png" x="1" y="123" w="25" h="4" refx="26" refy="2" />
+    <Image name="arrow1_r.png" x="1" y="106" w="24" h="4" refx="22" refy="2" />
+    <Image name="ballista_arrow1.png" x="117" y="121" w="51" h="9" refx="50" refy="5" />
+    <Image name="ballista_arrow1_r.png" x="104" y="112" w="42" h="8" refx="42" refy="4" />
+    <Image name="ballista_arrow2.png" x="1" y="138" w="51" h="9" refx="51" refy="5" />
+    <Image name="ballista_arrow2_r.png" x="27" y="121" w="42" h="8" refx="42" refy="4" />
+    <Image name="crossbowman_arrow.png" x="1" y="111" w="16" h="4" refx="16" refy="2" />
+    <Image name="crossbowman_arrow_e.png" x="14" y="94" w="16" h="4" refx="15" refy="2" />
+    <Image name="crossbowman_arrow_e_r.png" x="14" y="99" w="15" h="4" refx="14" refy="3" />
+    <Image name="crossbowman_arrow_r.png" x="1" y="183" w="15" h="4" refx="14" refy="2" />
+    <Image name="dialog.png" x="53" y="138" w="115" h="44" refx="105" refy="38" />
+    <Image name="hpbar_empty.png" x="70" y="121" w="46" h="16" refx="9" refy="5" />
+    <Image name="hpbar_full.png" x="104" y="108" w="28" h="3" refx="0" refy="0" />
+    <Image name="magicspell.png" x="1" y="1" w="132" h="92" refx="66" refy="47" />
+    <Image name="needrepair_icon.png" x="192" y="1" w="42" h="42" refx="21" refy="20" />
+    <Image name="needrepair_icon2.png" x="192" y="44" w="42" h="42" refx="21" refy="20" />
+    <Image name="point_attack.png" x="179" y="87" w="37" h="38" refx="18" refy="19" />
+    <Image name="point_ignition.png" x="134" y="1" w="57" h="61" refx="27" refy="55" />
+    <Image name="point_move.png" x="134" y="63" w="44" h="47" refx="20" refy="33" />
+    <Image name="stone1.png" x="235" y="1" w="18" h="12" refx="10" refy="5" />
+    <Image name="stone2.png" x="17" y="148" w="15" h="15" refx="10" refy="6" />
+    <Image name="trebuchet_stone_l.png" x="31" y="94" w="19" h="17" refx="9" refy="8" />
+    <Image name="trebuchet_stone_s.png" x="1" y="94" w="12" h="11" refx="6" refy="5" />
+    <Image name="trebuchet_stonehalf_l.png" x="217" y="87" w="29" h="18" refx="15" refy="10" />
+    <Image name="trebuchet_stonehalf_s.png" x="51" y="94" w="20" h="12" refx="10" refy="7" />
+</Images>

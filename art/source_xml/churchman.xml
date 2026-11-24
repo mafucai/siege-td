@@ -1,0 +1,17 @@
+﻿<Texture name="churchman.png" />
+<Images>
+    <Image name="武器.png" x="1" y="1" w="13" h="49" refx="0" refy="0" />
+    <Image name="头盔.png" x="15" y="1" w="23" h="25" refx="0" refy="0" />
+    <Image name="身体.png" x="39" y="1" w="22" h="20" refx="0" refy="0" />
+    <Image name="后腿.png" x="15" y="27" w="11" h="18" refx="0" refy="0" />
+    <Image name="前腿.png" x="39" y="22" w="13" h="17" refx="0" refy="0" />
+    <Image name="肩甲.png" x="15" y="46" w="13" h="14" refx="0" refy="0" />
+    <Image name="前脚.png" x="1" y="51" w="13" h="7" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="29" y="40" w="13" h="12" refx="0" refy="0" />
+    <Image name="后脚.png" x="29" y="53" w="14" h="7" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="43" y="40" w="15" h="9" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="44" y="50" w="16" h="9" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="53" y="22" w="8" h="13" refx="0" refy="0" />
+    <Image name="前脚怀.png" x="27" y="27" w="6" h="7" refx="0" refy="0" />
+    <Image name="后脚怀.png" x="1" y="59" w="6" h="7" refx="0" refy="0" />
+</Images>

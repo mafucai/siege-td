@@ -1,0 +1,24 @@
+﻿<Texture name="royalguard_a.png" />
+<Images>
+    <Image name="效果 2.png" x="1" y="1" w="37" h="62" refx="0" refy="0" />
+    <Image name="大刀.png" x="39" y="1" w="17" h="48" refx="0" refy="0" />
+    <Image name="效果 1.png" x="57" y="1" w="65" h="37" refx="0" refy="0" />
+    <Image name="头.png" x="1" y="64" w="24" h="30" refx="0" refy="0" />
+    <Image name="盾牌.png" x="39" y="50" w="21" h="29" refx="0" refy="0" />
+    <Image name="身体.png" x="61" y="39" w="19" h="28" refx="0" refy="0" />
+    <Image name="披风.png" x="81" y="39" w="19" h="21" refx="0" refy="0" />
+    <Image name="效果 3.png" x="26" y="80" w="21" h="21" refx="0" refy="0" />
+    <Image name="刀鞘.png" x="1" y="95" w="17" h="18" refx="0" refy="0" />
+    <Image name="肩甲.png" x="26" y="64" w="12" h="12" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="1" y="114" w="10" h="10" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="61" y="68" w="11" h="8" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="12" y="114" w="7" h="11" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="48" y="80" w="12" h="9" refx="0" refy="0" />
+    <Image name="前脚.png" x="19" y="102" w="14" h="7" refx="0" refy="0" />
+    <Image name="前腿.png" x="81" y="61" w="5" h="8" refx="0" refy="0" />
+    <Image name="后脚.png" x="34" y="102" w="14" h="7" refx="0" refy="0" />
+    <Image name="后腿·.png" x="61" y="77" w="6" h="12" refx="0" refy="0" />
+    <Image name="后腿.png" x="48" y="90" w="5" h="8" refx="0" refy="0" />
+    <Image name="后脚踝.png" x="20" y="110" w="6" h="7" refx="0" refy="0" />
+    <Image name="前脚踝.png" x="19" y="95" w="6" h="5" refx="0" refy="0" />
+</Images>

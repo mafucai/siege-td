@@ -1,0 +1,21 @@
+﻿<Texture name="royalguard_e.png" />
+<Images>
+    <Image name="斧兵武器.png" x="1" y="1" w="30" h="59" refx="0" refy="0" />
+    <Image name="斧兵武器效果.png" x="1" y="61" w="37" h="43" refx="0" refy="0" />
+    <Image name="斧兵头部.png" x="32" y="1" w="32" h="35" refx="0" refy="0" />
+    <Image name="斧兵身体.png" x="65" y="1" w="21" h="27" refx="0" refy="0" />
+    <Image name="斧兵前肩.png" x="1" y="105" w="16" h="15" refx="0" refy="0" />
+    <Image name="斧兵前手.png" x="87" y="1" w="13" h="9" refx="0" refy="0" />
+    <Image name="斧兵前脚.png" x="65" y="29" w="13" h="9" refx="0" refy="0" />
+    <Image name="斧兵后脚.png" x="32" y="37" w="13" h="9" refx="0" refy="0" />
+    <Image name="斧兵后臂.png" x="39" y="47" w="9" h="10" refx="0" refy="0" />
+    <Image name="斧兵前小腿.png" x="46" y="37" w="6" h="7" refx="0" refy="0" />
+    <Image name="斧兵前脚2.png" x="87" y="11" w="13" h="7" refx="0" refy="0" />
+    <Image name="斧兵前臂.png" x="53" y="37" w="7" h="11" refx="0" refy="0" />
+    <Image name="斧兵前腿.png" x="32" y="47" w="3" h="8" refx="0" refy="0" />
+    <Image name="斧兵前腿2 .png" x="39" y="58" w="6" h="7" refx="0" refy="0" />
+    <Image name="斧兵后脚2.png" x="46" y="58" w="13" h="7" refx="0" refy="0" />
+    <Image name="斧兵后手.png" x="60" y="49" w="14" h="10" refx="0" refy="0" />
+    <Image name="斧兵后腿.png" x="49" y="45" w="3" h="8" refx="0" refy="0" />
+    <Image name="斧柄后小腿.png" x="60" y="60" w="6" h="7" refx="0" refy="0" />
+</Images>

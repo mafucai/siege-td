@@ -1,0 +1,24 @@
+﻿<Texture name="spearman_1a.png" />
+<Images>
+    <Image name="元件 4 副本.png" x="1" y="1" w="57" h="97" refx="0" refy="0" />
+    <Image name="元件 1.png" x="59" y="1" w="10" h="64" refx="0" refy="0" />
+    <Image name="元件 5 副本.png" x="70" y="1" w="29" h="29" refx="0" refy="0" />
+    <Image name="元件 14.png" x="1" y="99" w="24" h="25" refx="0" refy="0" />
+    <Image name="元件 2.png" x="59" y="66" w="19" h="25" refx="0" refy="0" />
+    <Image name="元件 10.png" x="100" y="1" w="23" h="23" refx="0" refy="0" />
+    <Image name="元件 6 副本.png" x="70" y="31" w="25" h="15" refx="0" refy="0" />
+    <Image name="元件 17.png" x="70" y="47" w="28" h="16" refx="0" refy="0" />
+    <Image name="元件 3 副本.png" x="26" y="99" w="48" h="21" refx="0" refy="0" />
+    <Image name="元件 11.png" x="100" y="25" w="12" h="12" refx="0" refy="0" />
+    <Image name="元件 12.png" x="113" y="25" w="11" h="8" refx="0" refy="0" />
+    <Image name="元件 13.png" x="113" y="34" w="7" h="11" refx="0" refy="0" />
+    <Image name="元件 15.png" x="99" y="38" w="10" h="10" refx="0" refy="0" />
+    <Image name="元件 9.png" x="99" y="49" w="12" h="9" refx="0" refy="0" />
+    <Image name="元件 3.png" x="79" y="64" w="14" h="7" refx="0" refy="0" />
+    <Image name="元件 5.png" x="75" y="92" w="5" h="8" refx="0" refy="0" />
+    <Image name="元件 4.png" x="94" y="64" w="6" h="7" refx="0" refy="0" />
+    <Image name="元件 7.png" x="79" y="72" w="14" h="7" refx="0" refy="0" />
+    <Image name="元件 7 副本.png" x="75" y="101" w="25" h="12" refx="0" refy="0" />
+    <Image name="元件 8.png" x="112" y="46" w="5" h="8" refx="0" refy="0" />
+    <Image name="元件 6.png" x="79" y="80" w="6" h="7" refx="0" refy="0" />
+</Images>

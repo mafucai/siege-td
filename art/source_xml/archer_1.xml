@@ -1,0 +1,26 @@
+﻿<Texture name="archer_1.png" />
+<Images>
+    <Image name="武器.png" x="1" y="1" w="15" h="37" refx="0" refy="0" />
+    <Image name="头盔.png" x="17" y="1" w="31" h="27" refx="0" refy="0" />
+    <Image name="身体.png" x="17" y="29" w="27" h="28" refx="0" refy="0" />
+    <Image name="弓弦1.png" x="1" y="39" w="5" h="18" refx="0" refy="0" />
+    <Image name="武器3.png" x="49" y="1" w="6" h="12" refx="0" refy="0" />
+    <Image name="后手后臂.png" x="49" y="14" w="10" h="10" refx="0" refy="0" />
+    <Image name="前手前臂.png" x="49" y="25" w="12" h="8" refx="0" refy="0" />
+    <Image name="前手后臂.png" x="7" y="39" w="7" h="11" refx="0" refy="0" />
+    <Image name="前脚.png" x="45" y="34" w="13" h="9" refx="0" refy="0" />
+    <Image name="前脚掌.png" x="45" y="44" w="13" h="7" refx="0" refy="0" />
+    <Image name="后手前臂.png" x="45" y="52" w="13" h="9" refx="0" refy="0" />
+    <Image name="后脚.png" x="60" y="1" w="13" h="9" refx="0" refy="0" />
+    <Image name="武器4.png" x="60" y="11" w="7" h="10" refx="0" refy="0" />
+    <Image name="箭.png" x="62" y="22" w="27" h="10" refx="0" refy="0" />
+    <Image name="肩甲.png" x="74" y="1" w="10" h="12" refx="0" refy="0" />
+    <Image name="武器2.png" x="7" y="51" w="4" h="9" refx="0" refy="0" />
+    <Image name="前腿.png" x="68" y="11" w="5" h="8" refx="0" refy="0" />
+    <Image name="前脚腕.png" x="59" y="34" w="6" h="7" refx="0" refy="0" />
+    <Image name="武器5.png" x="85" y="1" w="9" h="7" refx="0" refy="0" />
+    <Image name="后脚掌.png" x="74" y="14" w="13" h="7" refx="0" refy="0" />
+    <Image name="武器1.png" x="59" y="42" w="6" h="9" refx="0" refy="0" />
+    <Image name="后腿.png" x="95" y="1" w="5" h="8" refx="0" refy="0" />
+    <Image name="后脚腕.png" x="88" y="9" w="6" h="7" refx="0" refy="0" />
+</Images>
