@@ -49,13 +49,7 @@ version/code=1
 version/name="1.0"
 package/unique_name="{pkg}"
 package/name="堡垒塔防"
-package/signed=true
-keystore/debug="{ks}"
-keystore/debug_user="androiddebugkey"
-keystore/debug_password="android"
-keystore/release=""
-keystore/release_user=""
-keystore/release_password=""
+package/signed=false
 package/app_category=2
 package/retain_data_on_uninstall=false
 package/exclude_from_recents=false
@@ -86,7 +80,7 @@ for i, ln in enumerate(open("export_presets.cfg", encoding="utf-8"), 1):
         sys.exit("第 %d 行有行首空格: %r" % (i, ln))
 text = open("export_presets.cfg", encoding="utf-8").read()
 for must in ('[preset.0]', '[preset.0.options]', 'package/unique_name="%s"' % pkg,
-             'keystore/debug="%s"' % ks, 'package/signed=true'):
+             'package/signed=false'):
     if must not in text:
         sys.exit("缺少必需项: %s" % must)
 print("export_presets.cfg 已生成并通过校验")
