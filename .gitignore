@@ -1,0 +1,6 @@
+.godot/
+build/
+*.import
+export_presets.cfg
+debug.keystore
+export.log
