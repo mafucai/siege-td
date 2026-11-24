@@ -1,0 +1,2461 @@
+{
+  "level": 4,
+  "file": "level04.xml",
+  "meta": {
+    "mode": "normal",
+    "goldrate": 0.85,
+    "map": 4,
+    "award": 400
+  },
+  "wave_count": 30,
+  "total_units": 364,
+  "dialog_count": 6,
+  "timeline": [
+    {
+      "_node": "group",
+      "_wave": 1,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 8
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 1,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 1
+    },
+    {
+      "_node": "group",
+      "_wave": 2,
+      "time": 10,
+      "units": [
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 22,
+          "lv": 1
+        }
+      ],
+      "unit_count": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 3,
+      "time": 20,
+      "units": [
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 22,
+          "lv": 1
+        }
+      ],
+      "unit_count": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 4,
+      "time": 30,
+      "units": [
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 22,
+          "lv": 1
+        }
+      ],
+      "unit_count": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 5,
+      "time": 40,
+      "units": [
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 22,
+          "lv": 1
+        }
+      ],
+      "unit_count": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 6,
+      "time": 70,
+      "units": [
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 28,
+          "lv": 1
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 32,
+          "lv": 1
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 36,
+          "lv": 1
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 35,
+          "lv": 2
+        }
+      ],
+      "unit_count": 27
+    },
+    {
+      "_node": "group",
+      "_wave": 7,
+      "time": 100,
+      "units": [
+        {
+          "name": "Archer E",
+          "gx": -2,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -2,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -1,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -1,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -2,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -5,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -5,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -5,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -5,
+          "gy": 22,
+          "lv": 2
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 8,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -2,
+          "gy": 8
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 2,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 9,
+      "time": 10,
+      "units": [
+        {
+          "name": "Spearman E",
+          "gx": -2,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -2,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -2,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Spearman E",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -2,
+          "gy": 22,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -4,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -4,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -4,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -4,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Spearman E",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -4,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -4,
+          "gy": 22,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -6,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -6,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -6,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -6,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Spearman E",
+          "gx": -6,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -6,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -6,
+          "gy": 22,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -8,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -8,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -8,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -8,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Spearman E",
+          "gx": -8,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -8,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -8,
+          "gy": 22,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -10,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Spearman E",
+          "gx": -10,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -10,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -10,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Spearman E",
+          "gx": -10,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -10,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -10,
+          "gy": 22,
+          "lv": 1
+        }
+      ],
+      "unit_count": 35
+    },
+    {
+      "_node": "group",
+      "_wave": 10,
+      "time": 50,
+      "units": [
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 32,
+          "lv": 2
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 11,
+      "time": 60,
+      "units": [
+        {
+          "name": "Battering Ram",
+          "gx": -1,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -1,
+          "gy": 17,
+          "lv": 2
+        }
+      ],
+      "unit_count": 2
+    },
+    {
+      "_node": "group",
+      "_wave": 12,
+      "time": 80,
+      "units": [
+        {
+          "name": "Horseman E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 18,
+          "lv": 1
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 13,
+      "time": 90,
+      "units": [
+        {
+          "name": "Horseman E",
+          "gx": -1,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 22,
+          "lv": 1
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 14,
+      "time": 100,
+      "units": [
+        {
+          "name": "Horseman E",
+          "gx": -1,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 14,
+          "lv": 1
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 15,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -3,
+          "gy": 10
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 17,
+      "head": 1,
+      "_node": "dialog",
+      "_wave": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 16,
+      "time": 10,
+      "units": [
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 18
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 14
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 18
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -12,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -14,
+          "gy": 16,
+          "lv": 3
+        }
+      ],
+      "unit_count": 25
+    },
+    {
+      "_node": "group",
+      "_wave": 17,
+      "time": 40,
+      "units": [
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -4,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 36
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 32
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 36
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -12,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -12,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -14,
+          "gy": 34,
+          "lv": 3
+        }
+      ],
+      "unit_count": 25
+    },
+    {
+      "_node": "group",
+      "_wave": 18,
+      "time": 85,
+      "units": [
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 11,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 21,
+          "lv": 2
+        }
+      ],
+      "unit_count": 11
+    },
+    {
+      "_node": "group",
+      "_wave": 19,
+      "time": 115,
+      "units": [
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 35,
+          "lv": 2
+        }
+      ],
+      "unit_count": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 20,
+      "time": 135,
+      "units": [
+        {
+          "name": "Boss1",
+          "gx": -8,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -3,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -3,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 13,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 17,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -10,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 11,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 13,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 17,
+          "lv": 5
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 19,
+          "lv": 5
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 21,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -2,
+          "gy": 10
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 3,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 21
+    },
+    {
+      "_node": "group",
+      "_wave": 22,
+      "time": 10,
+      "units": [
+        {
+          "name": "Archer E",
+          "gx": -3,
+          "gy": 30
+        },
+        {
+          "name": "Archer E",
+          "gx": -3,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -3,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -3,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -5,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -5,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -5,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -5,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -7,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -7,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -9,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -9,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Archer E",
+          "gx": -9,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -9,
+          "gy": 36,
+          "lv": 2
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 23,
+      "time": 20,
+      "units": [
+        {
+          "name": "Archer E",
+          "gx": -3,
+          "gy": 12
+        },
+        {
+          "name": "Archer E",
+          "gx": -3,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -3,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -5,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -5,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -5,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -5,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Archer E",
+          "gx": -7,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 14
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -7,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Archer E",
+          "gx": -9,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Archer E",
+          "gx": -9,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Archer E",
+          "gx": -9,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Archer E",
+          "gx": -9,
+          "gy": 18,
+          "lv": 2
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 24,
+      "time": 75,
+      "units": [
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 24,
+          "lv": 2
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 25,
+      "time": 85,
+      "units": [
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 21,
+          "lv": 2
+        }
+      ],
+      "unit_count": 20
+    },
+    {
+      "_node": "group",
+      "_wave": 26,
+      "time": 100,
+      "units": [
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -9,
+          "gy": 37,
+          "lv": 2
+        }
+      ],
+      "unit_count": 19
+    },
+    {
+      "_node": "group",
+      "_wave": 27,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 11,
+      "head": 3,
+      "_node": "dialog",
+      "_wave": 27
+    },
+    {
+      "_node": "group",
+      "_wave": 28,
+      "time": 10,
+      "units": [
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 9,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 8,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -2,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -2,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -2,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 2
+        }
+      ],
+      "unit_count": 21
+    },
+    {
+      "_node": "group",
+      "_wave": 29,
+      "time": 45,
+      "units": [
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 9,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 8,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 9,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -2,
+          "gy": 13,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -2,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -2,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -4,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 2
+        }
+      ],
+      "unit_count": 28
+    },
+    {
+      "_node": "group",
+      "_wave": 30,
+      "time": 75,
+      "units": [
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -9,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -11,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -13,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -15,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -17,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Boss3",
+          "gx": -8,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -3,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -5,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -9,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -11,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -13,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -15,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -17,
+          "gy": 28,
+          "lv": 2
+        }
+      ],
+      "unit_count": 17
+    },
+    {
+      "dialog": 4,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 30
+    }
+  ]
+}

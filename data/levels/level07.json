@@ -1,0 +1,2350 @@
+{
+  "level": 7,
+  "file": "level07.xml",
+  "meta": {
+    "mode": "normal",
+    "goldrate": 0.6,
+    "map": 7,
+    "award": 700
+  },
+  "wave_count": 27,
+  "total_units": 348,
+  "dialog_count": 6,
+  "timeline": [
+    {
+      "_node": "group",
+      "_wave": 1,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 19
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 1,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 1
+    },
+    {
+      "_node": "group",
+      "_wave": 2,
+      "time": 10,
+      "units": [
+        {
+          "name": "Swordman E",
+          "gx": -8,
+          "gy": 11,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -8,
+          "gy": 13,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -8,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Knight E",
+          "gx": -2,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 22,
+          "lv": 4
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -8,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -8,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -8,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 42,
+          "lv": 3
+        }
+      ],
+      "unit_count": 30
+    },
+    {
+      "_node": "group",
+      "_wave": 3,
+      "time": 35,
+      "units": [
+        {
+          "name": "Battering Ram",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -4,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -4,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -4,
+          "gy": 34,
+          "lv": 2
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 4,
+      "time": 90,
+      "units": [
+        {
+          "name": "Knight E",
+          "gx": -2,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -6,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -6,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -8,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -8,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Soldier E",
+          "gx": -10,
+          "gy": 26,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 5,
+      "time": 115,
+      "units": [
+        {
+          "name": "Maceman E",
+          "gx": -2,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -4,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -4,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -8,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -8,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 16,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 6,
+      "time": 140,
+      "units": [
+        {
+          "name": "Axeman E",
+          "gx": -2,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -6,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -6,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -10,
+          "gy": 36,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 7,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 15
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 2,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 8,
+      "time": 10,
+      "units": [
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 10,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 30,
+          "lv": 4
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -8,
+          "gy": 43,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -12,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 9,
+      "time": 55,
+      "units": [
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -3,
+          "gy": 11,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -2,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -3,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -2,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -3,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -8,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -12,
+          "gy": 44,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -14,
+          "gy": 42,
+          "lv": 2
+        }
+      ],
+      "unit_count": 23
+    },
+    {
+      "_node": "group",
+      "_wave": 10,
+      "time": 100,
+      "units": [
+        {
+          "name": "Maceman E",
+          "gx": -2,
+          "gy": 8,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -2,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -4,
+          "gy": 8,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -4,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -8,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -8,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -12,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -12,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Knight E",
+          "gx": -13,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -12,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -12,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -8,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -8,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -2,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -2,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -4,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -4,
+          "gy": 30,
+          "lv": 2
+        }
+      ],
+      "unit_count": 25
+    },
+    {
+      "_node": "group",
+      "_wave": 11,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 6,
+      "head": 4,
+      "_node": "dialog",
+      "_wave": 11
+    },
+    {
+      "_node": "group",
+      "_wave": 12,
+      "time": 10,
+      "units": [
+        {
+          "name": "Maceman E",
+          "gx": -1,
+          "gy": 7,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 9,
+          "lv": 3
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -9,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -2,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -1,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -3,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 29,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -5,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Knight E",
+          "gx": -7,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -8,
+          "gy": 43,
+          "lv": 3
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 13,
+      "time": 30,
+      "units": [
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 8,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -2,
+          "gy": 9,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -4,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -11,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -2,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -9,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -2,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -11,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 43,
+          "lv": 3
+        }
+      ],
+      "unit_count": 13
+    },
+    {
+      "_node": "group",
+      "_wave": 14,
+      "time": 60,
+      "units": [
+        {
+          "name": "Maceman E",
+          "gx": -9,
+          "gy": 7,
+          "lv": 3
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 8,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -1,
+          "gy": 10,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -4,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -6,
+          "gy": 15,
+          "lv": 1
+        },
+        {
+          "name": "Axeman E",
+          "gx": -3,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Knight E",
+          "gx": -11,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -5,
+          "gy": 25,
+          "lv": 1
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -9,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -6,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 13
+    },
+    {
+      "_node": "group",
+      "_wave": 15,
+      "time": 90,
+      "units": [
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 6,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -2,
+          "gy": 9,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -4,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -11,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -2,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -9,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -2,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -11,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 43,
+          "lv": 3
+        }
+      ],
+      "unit_count": 13
+    },
+    {
+      "_node": "group",
+      "_wave": 16,
+      "time": 110,
+      "units": [
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 7,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 11,
+          "lv": 3
+        },
+        {
+          "name": "Knight E",
+          "gx": -2,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -9,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -2,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -1,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -3,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -6,
+          "gy": 29,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -3,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -1,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Knight E",
+          "gx": -6,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -1,
+          "gy": 43,
+          "lv": 3
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 17,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -2,
+          "gy": 27
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 8,
+      "head": 4,
+      "_node": "dialog",
+      "_wave": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 18,
+      "time": 10,
+      "units": [
+        {
+          "name": "Knight E",
+          "gx": -2,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 10,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 20,
+          "lv": 3
+        }
+      ],
+      "unit_count": 13
+    },
+    {
+      "_node": "group",
+      "_wave": 19,
+      "time": 30,
+      "units": [
+        {
+          "name": "Knight E",
+          "gx": -2,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -4,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -6,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -8,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -8,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -8,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -8,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -8,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Soldier E",
+          "gx": -8,
+          "gy": 30,
+          "lv": 3
+        }
+      ],
+      "unit_count": 13
+    },
+    {
+      "_node": "group",
+      "_wave": 20,
+      "time": 50,
+      "units": [
+        {
+          "name": "Knight E",
+          "gx": -2,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -6,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Pikeman E",
+          "gx": -8,
+          "gy": 42,
+          "lv": 3
+        }
+      ],
+      "unit_count": 13
+    },
+    {
+      "_node": "group",
+      "_wave": 21,
+      "time": 85,
+      "units": [
+        {
+          "name": "Crossbowman E",
+          "gx": -2,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -2,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 29,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 39,
+          "lv": 3
+        }
+      ],
+      "unit_count": 26
+    },
+    {
+      "_node": "group",
+      "_wave": 22,
+      "time": 130,
+      "units": [
+        {
+          "name": "Axeman E",
+          "gx": -2,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -2,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -4,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Knight E",
+          "gx": -6,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Maceman E",
+          "gx": -8,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -8,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Maceman E",
+          "gx": -10,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -12,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -12,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -12,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -12,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -12,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -12,
+          "gy": 29,
+          "lv": 3
+        }
+      ],
+      "unit_count": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 23,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 10,
+      "head": 4,
+      "_node": "dialog",
+      "_wave": 23
+    },
+    {
+      "_node": "group",
+      "_wave": 24,
+      "time": 10,
+      "units": [
+        {
+          "name": "Catapult",
+          "gx": -14,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -14,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -14,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -14,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -14,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -14,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -10,
+          "gy": 10,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -10,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -10,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -10,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -10,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -10,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -2,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -2,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -4,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -6,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 29,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -8,
+          "gy": 39,
+          "lv": 3
+        }
+      ],
+      "unit_count": 38
+    },
+    {
+      "_node": "group",
+      "_wave": 25,
+      "time": 60,
+      "units": [
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 20,
+          "lv": 4
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -8,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -8,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -8,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -8,
+          "gy": 23,
+          "lv": 3
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 26,
+      "time": 90,
+      "units": [
+        {
+          "name": "Horseman E",
+          "gx": -2,
+          "gy": 30,
+          "lv": 4
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 29,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -8,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -8,
+          "gy": 29,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -8,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -8,
+          "gy": 33,
+          "lv": 3
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 27,
+      "time": 120,
+      "units": [
+        {
+          "name": "Knight E",
+          "gx": -2,
+          "gy": 23,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -2,
+          "gy": 27,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -5,
+          "gy": 27,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -5,
+          "gy": 23,
+          "lv": 1
+        },
+        {
+          "name": "Boss4",
+          "gx": -6,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Axeman E",
+          "gx": -8,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -8,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -8,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -8,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -8,
+          "gy": 29,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "dialog": 4,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 27
+    }
+  ]
+}

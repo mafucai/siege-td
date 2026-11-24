@@ -1,0 +1,4545 @@
+{
+  "level": 12,
+  "file": "level12.xml",
+  "meta": {
+    "mode": "normal",
+    "goldrate": 0.2,
+    "map": 12,
+    "award": 600
+  },
+  "wave_count": 52,
+  "total_units": 679,
+  "dialog_count": 8,
+  "timeline": [
+    {
+      "_node": "group",
+      "_wave": 1,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 23
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 39,
+      "head": 9,
+      "_node": "dialog",
+      "_wave": 1
+    },
+    {
+      "_node": "group",
+      "_wave": 2,
+      "time": 10,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 12,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 14,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 16,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 18,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 20,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 26,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 28,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 30,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 32,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 34,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 36,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 12,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 14,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 16,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 18,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 20,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 26,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 28,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 30,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 32,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 34,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 36,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 12,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 14,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 16,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 18,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 20,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 26,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 28,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 30,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 32,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 34,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 36,
+          "lv": 1
+        }
+      ],
+      "unit_count": 36
+    },
+    {
+      "_node": "group",
+      "_wave": 3,
+      "time": 60,
+      "units": [
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 12,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 26,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 28,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 32,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 36,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 10,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 12,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 14,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 16,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 18,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 20,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 26,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 28,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 30,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 32,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 34,
+          "lv": 1
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 36,
+          "lv": 1
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 4,
+      "time": 120,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 13,
+          "lv": 1
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 17,
+          "lv": 1
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 29,
+          "lv": 1
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 33,
+          "lv": 1
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 36,
+          "lv": 2
+        }
+      ],
+      "unit_count": 28
+    },
+    {
+      "_node": "group",
+      "_wave": 5,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 17
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 37,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 5
+    },
+    {
+      "_node": "group",
+      "_wave": 6,
+      "time": 10,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 11,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 9,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 11,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 15,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 7,
+      "time": 15,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 25,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 8,
+      "time": 20,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 35,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 9,
+      "time": 80,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 20,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 10,
+      "time": 85,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 30,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 11,
+      "time": 90,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 12,
+      "time": 120,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 38,
+          "lv": 2
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 13,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -2,
+          "gy": 15
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 3,
+      "head": 9,
+      "_node": "dialog",
+      "_wave": 13
+    },
+    {
+      "_node": "group",
+      "_wave": 14,
+      "time": 10,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 20,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 15,
+      "time": 20,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 30,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 16,
+      "time": 30,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -2,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 42,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 42,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -8,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 17,
+      "time": 50,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -8,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -8,
+          "gy": 20,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 18,
+      "time": 60,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -8,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -8,
+          "gy": 30,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 19,
+      "time": 70,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 42,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -8,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -8,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 20,
+      "time": 90,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -8,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -8,
+          "gy": 20,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 21,
+      "time": 100,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -8,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -8,
+          "gy": 30,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 22,
+      "time": 110,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 42,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -8,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -8,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 23,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 22
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 35,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 23
+    },
+    {
+      "_node": "group",
+      "_wave": 24,
+      "time": 10,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 16,
+          "lv": 2
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 25,
+      "time": 30,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 42,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 26,
+      "time": 50,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 29,
+          "lv": 2
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 27,
+      "time": 70,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 16,
+          "lv": 2
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 28,
+      "time": 90,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 42,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 29,
+      "time": 110,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 29,
+          "lv": 2
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 30,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -2,
+          "gy": 10
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 36,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 30
+    },
+    {
+      "_node": "group",
+      "_wave": 31,
+      "time": 10,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 13,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 13,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 21,
+          "lv": 3
+        }
+      ],
+      "unit_count": 28
+    },
+    {
+      "_node": "group",
+      "_wave": 32,
+      "time": 40,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 2
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 33,
+      "time": 70,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -6,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        }
+      ],
+      "unit_count": 28
+    },
+    {
+      "_node": "group",
+      "_wave": 34,
+      "time": 100,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 2
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 35,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 38,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 35
+    },
+    {
+      "_node": "group",
+      "_wave": 36,
+      "time": 10,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -9,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Ballista",
+          "gx": -9,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 41,
+          "lv": 2
+        }
+      ],
+      "unit_count": 32
+    },
+    {
+      "_node": "group",
+      "_wave": 37,
+      "time": 70,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -9,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Ballista",
+          "gx": -9,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -3,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 37,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 41,
+          "lv": 2
+        }
+      ],
+      "unit_count": 32
+    },
+    {
+      "_node": "group",
+      "_wave": 38,
+      "time": 120,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -5,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -7,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -9,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -11,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Slave",
+          "gx": -13,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -13,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Slave",
+          "gx": -13,
+          "gy": 36,
+          "lv": 2
+        }
+      ],
+      "unit_count": 19
+    },
+    {
+      "_node": "group",
+      "_wave": 39,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 40,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 39
+    },
+    {
+      "_node": "group",
+      "_wave": 40,
+      "time": 10,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 42,
+          "lv": 3
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 41,
+      "time": 30,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 42,
+      "time": 50,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 32,
+          "lv": 3
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 43,
+      "time": 70,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 2
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 44,
+      "time": 90,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 42,
+          "lv": 3
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 45,
+      "time": 110,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 2
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 46,
+      "time": 130,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 32,
+          "lv": 3
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 47,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -2,
+          "gy": 19
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 34,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 47
+    },
+    {
+      "_node": "group",
+      "_wave": 48,
+      "time": 10,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 29,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 29,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 29,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 41,
+          "lv": 4
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 49,
+      "time": 30,
+      "units": [
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -7,
+          "gy": 31,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -7,
+          "gy": 35,
+          "lv": 5
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 50,
+      "time": 70,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 29,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 29,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 29,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 41,
+          "lv": 4
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 51,
+      "time": 90,
+      "units": [
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -7,
+          "gy": 31,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -7,
+          "gy": 35,
+          "lv": 5
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 52,
+      "time": 140,
+      "units": [
+        {
+          "name": "Boss7",
+          "gx": -1,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 31,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -8,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -8,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -10,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -10,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -10,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -12,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -12,
+          "gy": 35,
+          "lv": 2
+        },
+        {
+          "name": "Spearman A",
+          "gx": -14,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -14,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -14,
+          "gy": 36,
+          "lv": 3
+        }
+      ],
+      "unit_count": 18
+    }
+  ]
+}

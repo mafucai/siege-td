@@ -1,0 +1,3079 @@
+{
+  "level": 14,
+  "file": "level14.xml",
+  "meta": {
+    "mode": "normal",
+    "goldrate": 0.2,
+    "map": 14,
+    "award": 1000
+  },
+  "wave_count": 32,
+  "total_units": 459,
+  "dialog_count": 10,
+  "timeline": [
+    {
+      "_node": "group",
+      "_wave": 1,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 3,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 1
+    },
+    {
+      "_node": "group",
+      "_wave": 2,
+      "time": 10,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 44,
+          "lv": 5
+        }
+      ],
+      "unit_count": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 3,
+      "time": 40,
+      "units": [
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -3,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -3,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 44,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 46,
+          "lv": 5
+        }
+      ],
+      "unit_count": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 4,
+      "time": 70,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 44,
+          "lv": 5
+        }
+      ],
+      "unit_count": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 5,
+      "time": 100,
+      "units": [
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -3,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -3,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 44,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 46,
+          "lv": 5
+        }
+      ],
+      "unit_count": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 6,
+      "time": 130,
+      "units": [
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Slave",
+          "gx": -4,
+          "gy": 44,
+          "lv": 5
+        }
+      ],
+      "unit_count": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 7,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 31,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 8,
+      "time": 10,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 29,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 31,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 33,
+          "lv": 5
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 9,
+      "time": 35,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 17,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 19,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 23,
+          "lv": 5
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 10,
+      "time": 60,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 37,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 41,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 43,
+          "lv": 5
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 11,
+      "time": 85,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 29,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 31,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 33,
+          "lv": 5
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 12,
+      "time": 110,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 17,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 19,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 23,
+          "lv": 5
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 13,
+      "time": 135,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 37,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 41,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 43,
+          "lv": 5
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 14,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 33,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 15,
+      "time": 10,
+      "units": [
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 42,
+          "lv": 5
+        }
+      ],
+      "unit_count": 32
+    },
+    {
+      "_node": "group",
+      "_wave": 16,
+      "time": 120,
+      "units": [
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 45,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 45,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -9,
+          "gy": 45,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -13,
+          "gy": 45,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 48,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 42,
+          "lv": 5
+        }
+      ],
+      "unit_count": 37
+    },
+    {
+      "_node": "group",
+      "_wave": 17,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 11,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 18,
+      "time": 10,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 9,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 8,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 10,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 13,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 17,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 29,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 31,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 35,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 37,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 41,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 43,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 46,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 45,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 47,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 50,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 49,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 51,
+          "lv": 5
+        }
+      ],
+      "unit_count": 33
+    },
+    {
+      "_node": "group",
+      "_wave": 19,
+      "time": 70,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 9,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 8,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 10,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 13,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 17,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 29,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 31,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 33,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 35,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 37,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 41,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 43,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 46,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 45,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 47,
+          "lv": 5
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 50,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 49,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 51,
+          "lv": 5
+        }
+      ],
+      "unit_count": 33
+    },
+    {
+      "_node": "group",
+      "_wave": 20,
+      "time": 140,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 9,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 8,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 10,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 13,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -1,
+          "gy": 17,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 21,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Boss7",
+          "gx": -5,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -7,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -7,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -10,
+          "gy": 28,
+          "lv": 5
+        },
+        {
+          "name": "Camel",
+          "gx": -10,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -1,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 37,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 41,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 43,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 46,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 45,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 47,
+          "lv": 5
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 50,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 49,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 51,
+          "lv": 5
+        }
+      ],
+      "unit_count": 33
+    },
+    {
+      "dialog": 4,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 20
+    },
+    {
+      "_node": "group",
+      "_wave": 21,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 38,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 21
+    },
+    {
+      "_node": "group",
+      "_wave": 22,
+      "time": 10,
+      "units": [
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 48,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 51,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 54,
+          "lv": 5
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "_node": "group",
+      "_wave": 23,
+      "time": 35,
+      "units": [
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 48,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 51,
+          "lv": 5
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 54,
+          "lv": 5
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "_node": "group",
+      "_wave": 24,
+      "time": 75,
+      "units": [
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 48,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 51,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 54,
+          "lv": 5
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "_node": "group",
+      "_wave": 25,
+      "time": 100,
+      "units": [
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 48,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 51,
+          "lv": 5
+        },
+        {
+          "name": "Catapult",
+          "gx": -3,
+          "gy": 54,
+          "lv": 5
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "_node": "group",
+      "_wave": 26,
+      "time": 140,
+      "units": [
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 48,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 51,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 54,
+          "lv": 5
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "_node": "group",
+      "_wave": 27,
+      "time": 165,
+      "units": [
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 15,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 27,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 36,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 48,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 51,
+          "lv": 5
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 54,
+          "lv": 5
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "dialog": 4,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 27
+    },
+    {
+      "_node": "group",
+      "_wave": 28,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 31,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 28
+    },
+    {
+      "_node": "group",
+      "_wave": 29,
+      "time": 10,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 10,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 44,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 50,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 52,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 54,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 10,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 44,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 50,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 52,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 54,
+          "lv": 5
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 30,
+      "time": 50,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 10,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Boss7",
+          "gx": -2,
+          "gy": 32,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -3,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 44,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 50,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 52,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 54,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 10,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 12,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 14,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 20,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 24,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 40,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 42,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -7,
+          "gy": 44,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 50,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 52,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 54,
+          "lv": 5
+        }
+      ],
+      "unit_count": 27
+    },
+    {
+      "dialog": 32,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 30
+    },
+    {
+      "_node": "group",
+      "_wave": 31,
+      "time": 120,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 44,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 46,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 44,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 46,
+          "lv": 3
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 32,
+      "time": 180,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 44,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -2,
+          "gy": 46,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -3,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Boss8",
+          "gx": -2,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -3,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 44,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -4,
+          "gy": 46,
+          "lv": 3
+        }
+      ],
+      "unit_count": 19
+    },
+    {
+      "dialog": 33,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 32
+    }
+  ]
+}

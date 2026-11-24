@@ -1,0 +1,1444 @@
+{
+  "level": 1,
+  "file": "level01.xml",
+  "meta": {
+    "mode": "normal",
+    "goldrate": 1,
+    "map": 1,
+    "award": 100
+  },
+  "wave_count": 22,
+  "total_units": 219,
+  "dialog_count": 12,
+  "timeline": [
+    {
+      "_node": "group",
+      "_wave": 1,
+      "time": 1,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 19,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 1
+    },
+    {
+      "_node": "group",
+      "_wave": 2,
+      "time": 6,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -3,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "_node": "group",
+      "_wave": 3,
+      "time": 12,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 20,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 3
+    },
+    {
+      "_node": "group",
+      "_wave": 4,
+      "time": 25,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 21,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 5,
+      "time": 30,
+      "units": [
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 10
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 12
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 14
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 16
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 18
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 12
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 14
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 16
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 18
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 15
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "_node": "group",
+      "_wave": 6,
+      "time": 38,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 22,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 6
+    },
+    {
+      "_node": "group",
+      "_wave": 7,
+      "time": 52,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 23,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 8,
+      "time": 55,
+      "units": [
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 24
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 26
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 30
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 32
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 26
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 28
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 32
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 27
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 29,
+          "lv": 2
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "_node": "group",
+      "_wave": 9,
+      "time": 65,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 24,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 10,
+      "time": 80,
+      "units": [
+        {
+          "name": "Peasant E",
+          "gx": -4,
+          "gy": 21
+        },
+        {
+          "name": "Peasant E",
+          "gx": -4,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Peasant E",
+          "gx": -4,
+          "gy": 23
+        },
+        {
+          "name": "Peasant E",
+          "gx": -4,
+          "gy": 26
+        },
+        {
+          "name": "Peasant E",
+          "gx": -4,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Peasant E",
+          "gx": -4,
+          "gy": 28
+        },
+        {
+          "name": "Peasant E",
+          "gx": -6,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Peasant E",
+          "gx": -6,
+          "gy": 22
+        },
+        {
+          "name": "Peasant E",
+          "gx": -6,
+          "gy": 23
+        },
+        {
+          "name": "Peasant E",
+          "gx": -6,
+          "gy": 26
+        },
+        {
+          "name": "Peasant E",
+          "gx": -6,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Peasant E",
+          "gx": -6,
+          "gy": 28
+        }
+      ],
+      "unit_count": 12
+    },
+    {
+      "dialog": 25,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 11,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -3,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 1,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 11
+    },
+    {
+      "_node": "group",
+      "_wave": 12,
+      "time": 10,
+      "units": [
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 10
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 12
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 16
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 10,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 12
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 14
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 16
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 13
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 15
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 28
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 32
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 34
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 28
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 30
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 34
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 36
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 33
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 13,
+      "time": 55,
+      "units": [
+        {
+          "name": "Spearman E",
+          "gx": -1,
+          "gy": 20
+        },
+        {
+          "name": "Spearman E",
+          "gx": -1,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -1,
+          "gy": 24
+        },
+        {
+          "name": "Spearman E",
+          "gx": -1,
+          "gy": 26
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 22
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -3,
+          "gy": 26
+        },
+        {
+          "name": "Spearman E",
+          "gx": -5,
+          "gy": 20
+        },
+        {
+          "name": "Spearman E",
+          "gx": -5,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -5,
+          "gy": 24
+        },
+        {
+          "name": "Spearman E",
+          "gx": -5,
+          "gy": 26
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 20
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 24
+        },
+        {
+          "name": "Spearman E",
+          "gx": -7,
+          "gy": 26
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 14,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -3,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 2,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 15,
+      "time": 10,
+      "units": [
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -2,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 28,
+          "lv": 2
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 16,
+      "time": 55,
+      "units": [
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 16
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 20
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 24
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 28
+        },
+        {
+          "name": "Viking",
+          "gx": -3,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -3,
+          "gy": 19
+        },
+        {
+          "name": "Viking",
+          "gx": -3,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -3,
+          "gy": 27
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 22
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -8,
+          "gy": 23
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 20
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -10,
+          "gy": 24
+        },
+        {
+          "name": "Savage",
+          "gx": -12,
+          "gy": 19
+        },
+        {
+          "name": "Savage",
+          "gx": -12,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -12,
+          "gy": 23
+        },
+        {
+          "name": "Savage",
+          "gx": -12,
+          "gy": 25
+        },
+        {
+          "name": "Savage",
+          "gx": -14,
+          "gy": 20
+        },
+        {
+          "name": "Savage",
+          "gx": -14,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -14,
+          "gy": 24
+        },
+        {
+          "name": "Savage",
+          "gx": -16,
+          "gy": 21
+        },
+        {
+          "name": "Savage",
+          "gx": -16,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -18,
+          "gy": 22
+        }
+      ],
+      "unit_count": 26
+    },
+    {
+      "_node": "group",
+      "_wave": 17,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -2,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 14,
+      "head": 1,
+      "_node": "dialog",
+      "_wave": 17
+    },
+    {
+      "_node": "group",
+      "_wave": 18,
+      "time": 10,
+      "units": [
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 7,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 8,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 9,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 10
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 7
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 8
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 9
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 10
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 11,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 12
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 13,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 14
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 11
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 13
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 14
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 15
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 18
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 10
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 12,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 14
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 16,
+          "lv": 2
+        }
+      ],
+      "unit_count": 28
+    },
+    {
+      "_node": "group",
+      "_wave": 19,
+      "time": 50,
+      "units": [
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 22
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 23,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 24
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 21
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 22
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 23
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 24
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 25,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 27,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 29
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 30
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 31
+        },
+        {
+          "name": "Savage",
+          "gx": -3,
+          "gy": 32
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 29
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 30
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 31
+        },
+        {
+          "name": "Savage",
+          "gx": -5,
+          "gy": 32
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 24
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 28
+        },
+        {
+          "name": "Viking",
+          "gx": -1,
+          "gy": 30
+        }
+      ],
+      "unit_count": 28
+    },
+    {
+      "_node": "group",
+      "_wave": 20,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 5,
+      "head": 1,
+      "_node": "dialog",
+      "_wave": 20
+    },
+    {
+      "_node": "group",
+      "_wave": 21,
+      "time": 10,
+      "units": [
+        {
+          "name": "Savage",
+          "gx": -2,
+          "gy": 18
+        },
+        {
+          "name": "Savage",
+          "gx": -2,
+          "gy": 20,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 18
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 20
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 20
+        },
+        {
+          "name": "Savage",
+          "gx": -2,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -2,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 24
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 26
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 26
+        },
+        {
+          "name": "Savage",
+          "gx": -2,
+          "gy": 30
+        },
+        {
+          "name": "Savage",
+          "gx": -2,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 30
+        },
+        {
+          "name": "Savage",
+          "gx": -4,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 30
+        },
+        {
+          "name": "Savage",
+          "gx": -6,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -15,
+          "gy": 20
+        },
+        {
+          "name": "Viking",
+          "gx": -15,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -17,
+          "gy": 20
+        },
+        {
+          "name": "Viking",
+          "gx": -17,
+          "gy": 22
+        },
+        {
+          "name": "Viking",
+          "gx": -15,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -15,
+          "gy": 30
+        },
+        {
+          "name": "Viking",
+          "gx": -17,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -17,
+          "gy": 30
+        }
+      ],
+      "unit_count": 26
+    },
+    {
+      "_node": "group",
+      "_wave": 22,
+      "time": 75,
+      "units": [
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -6,
+          "gy": 31
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 19,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 23
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 27
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -8,
+          "gy": 31
+        },
+        {
+          "name": "Boss1",
+          "gx": -1,
+          "gy": 25
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 21,
+          "lv": 2
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 23
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Viking",
+          "gx": -13,
+          "gy": 29,
+          "lv": 2
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "dialog": 4,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 22
+    }
+  ]
+}

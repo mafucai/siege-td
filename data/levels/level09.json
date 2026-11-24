@@ -1,0 +1,1792 @@
+{
+  "level": 9,
+  "file": "level09.xml",
+  "meta": {
+    "mode": "normal",
+    "goldrate": 0.4,
+    "map": 9,
+    "award": 900
+  },
+  "wave_count": 23,
+  "total_units": 260,
+  "dialog_count": 7,
+  "timeline": [
+    {
+      "_node": "group",
+      "_wave": 1,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 23
+        },
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 33
+        }
+      ],
+      "unit_count": 2
+    },
+    {
+      "dialog": 3,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 1
+    },
+    {
+      "_node": "group",
+      "_wave": 2,
+      "time": 10,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Knight E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Swordman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 3,
+      "time": 50,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Knight E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 4,
+      "time": 90,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 1
+        },
+        {
+          "name": "Swordman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 5,
+      "time": 130,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Axeman E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Axeman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "Knight E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 1
+        },
+        {
+          "name": "Swordman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Swordman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 6,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 23
+        },
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 33
+        }
+      ],
+      "unit_count": 2
+    },
+    {
+      "dialog": 11,
+      "head": 5,
+      "_node": "dialog",
+      "_wave": 6
+    },
+    {
+      "_node": "group",
+      "_wave": 7,
+      "time": 10,
+      "units": [
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -10,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -10,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -10,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -10,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -11,
+          "gy": 41,
+          "lv": 2
+        }
+      ],
+      "unit_count": 20
+    },
+    {
+      "_node": "group",
+      "_wave": 8,
+      "time": 60,
+      "units": [
+        {
+          "name": "Crossbowman E",
+          "gx": -1,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -9,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -9,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -1,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -1,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -9,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "MasterArcher E",
+          "gx": -9,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -11,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -11,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -11,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -11,
+          "gy": 41,
+          "lv": 2
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 9,
+      "time": 120,
+      "units": [
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -10,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -10,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -4,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Horseman E",
+          "gx": -10,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -10,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 10,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 23
+        },
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 33
+        }
+      ],
+      "unit_count": 2
+    },
+    {
+      "dialog": 17,
+      "head": 2,
+      "_node": "dialog",
+      "_wave": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 11,
+      "time": 10,
+      "units": [
+        {
+          "name": "RoyalGuard E",
+          "gx": -1,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Paladin E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 39,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 41,
+          "lv": 1
+        },
+        {
+          "name": "Paladin E",
+          "gx": -6,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -8,
+          "gy": 39,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -8,
+          "gy": 41,
+          "lv": 1
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 12,
+      "time": 60,
+      "units": [
+        {
+          "name": "RoyalGuard E",
+          "gx": -1,
+          "gy": 15,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 1
+        },
+        {
+          "name": "Paladin E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 39,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 41,
+          "lv": 1
+        },
+        {
+          "name": "Paladin E",
+          "gx": -6,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -8,
+          "gy": 39,
+          "lv": 1
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -8,
+          "gy": 41,
+          "lv": 1
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 13,
+      "time": 110,
+      "units": [
+        {
+          "name": "RoyalGuard E",
+          "gx": -1,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Paladin E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 39,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 41,
+          "lv": 1
+        },
+        {
+          "name": "Paladin E",
+          "gx": -6,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -8,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -8,
+          "gy": 41,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 14,
+      "time": 160,
+      "units": [
+        {
+          "name": "RoyalGuard E",
+          "gx": -1,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Paladin E",
+          "gx": -3,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 39,
+          "lv": 1
+        },
+        {
+          "name": "Knight E",
+          "gx": -4,
+          "gy": 41,
+          "lv": 1
+        },
+        {
+          "name": "Paladin E",
+          "gx": -6,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -8,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -8,
+          "gy": 41,
+          "lv": 2
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 15,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 23
+        },
+        {
+          "name": "bugler",
+          "gx": -1,
+          "gy": 33
+        }
+      ],
+      "unit_count": 2
+    },
+    {
+      "dialog": 14,
+      "head": 5,
+      "_node": "dialog",
+      "_wave": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 16,
+      "time": 10,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Catapult",
+          "gx": -9,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -9,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -9,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Catapult",
+          "gx": -9,
+          "gy": 41,
+          "lv": 2
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 17,
+      "time": 60,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -9,
+          "gy": 14,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -9,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -9,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -9,
+          "gy": 41,
+          "lv": 2
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 18,
+      "time": 120,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Horseman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 19,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 7,
+      "head": 2,
+      "_node": "dialog",
+      "_wave": 19
+    },
+    {
+      "_node": "group",
+      "_wave": 20,
+      "time": 10,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 21,
+      "time": 50,
+      "units": [
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -1,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -3,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -5,
+          "gy": 17,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -1,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -1,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 14
+    },
+    {
+      "dialog": 9,
+      "head": 5,
+      "_node": "dialog",
+      "_wave": 21
+    },
+    {
+      "_node": "group",
+      "_wave": 22,
+      "time": 100,
+      "units": [
+        {
+          "name": "Boss5",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -4,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -4,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -7,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -7,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -10,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -10,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -13,
+          "gy": 15,
+          "lv": 2
+        },
+        {
+          "name": "Cavalryman E",
+          "gx": -13,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Boss2",
+          "gx": -1,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 39,
+          "lv": 2
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -5,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -7,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -9,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -9,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -11,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Crossbowman E",
+          "gx": -11,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 20
+    },
+    {
+      "_node": "group",
+      "_wave": 23,
+      "time": 150,
+      "units": [
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Paladin E",
+          "gx": -1,
+          "gy": 40,
+          "lv": 2
+        }
+      ],
+      "unit_count": 2
+    },
+    {
+      "dialog": 4,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 23
+    }
+  ]
+}

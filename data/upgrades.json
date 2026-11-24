@@ -1,0 +1,402 @@
+{
+  "unit": [
+    {
+      "name": "Spearman",
+      "id": 0,
+      "maxlevel": 10,
+      "unlockatlevel": 1,
+      "price": 50,
+      "icon": "icon_troops_spearman.png",
+      "description": "Spearman Description"
+    },
+    {
+      "name": "Pikeman",
+      "id": 1,
+      "maxlevel": 10,
+      "unlockatlevel": 1,
+      "price": 100,
+      "icon": "icon_troops_pikeman.png",
+      "description": "Pikeman Description"
+    },
+    {
+      "name": "Axeman",
+      "id": 2,
+      "maxlevel": 10,
+      "unlockatlevel": 6,
+      "price": 170,
+      "icon": "icon_troops_axeman.png",
+      "description": "Axeman Description"
+    },
+    {
+      "name": "RoyalGuard",
+      "id": 3,
+      "maxlevel": 10,
+      "unlockatlevel": 99,
+      "price": 280,
+      "icon": "icon_troops_royalguard.png",
+      "description": "RoyalGuard Description"
+    },
+    {
+      "name": "Peasant",
+      "id": 4,
+      "maxlevel": 10,
+      "unlockatlevel": 1,
+      "price": 40,
+      "icon": "icon_troops_peasant.png",
+      "description": "Peasant Description"
+    },
+    {
+      "name": "Soldier",
+      "id": 5,
+      "maxlevel": 10,
+      "unlockatlevel": 2,
+      "price": 85,
+      "icon": "icon_troops_soildier.png",
+      "description": "Soldier Description"
+    },
+    {
+      "name": "Swordman",
+      "id": 6,
+      "maxlevel": 10,
+      "unlockatlevel": 5,
+      "price": 170,
+      "icon": "icon_troops_swordman.png",
+      "description": "Swordman Description"
+    },
+    {
+      "name": "Horseman",
+      "id": 7,
+      "maxlevel": 10,
+      "unlockatlevel": 8,
+      "price": 185,
+      "icon": "icon_troops_horseman.png",
+      "description": "Horseman Description"
+    },
+    {
+      "name": "Cavalryman",
+      "id": 8,
+      "maxlevel": 10,
+      "unlockatlevel": 99,
+      "price": 285,
+      "icon": "icon_troops_cavalryman.png",
+      "description": "Cavalryman Description"
+    },
+    {
+      "name": "Archer",
+      "id": 9,
+      "maxlevel": 10,
+      "unlockatlevel": 1,
+      "price": 165,
+      "icon": "icon_troops_archer.png",
+      "description": "Archer Description"
+    },
+    {
+      "name": "MasterArcher",
+      "id": 10,
+      "maxlevel": 10,
+      "unlockatlevel": 4,
+      "price": 250,
+      "icon": "icon_troops_longbowman.png",
+      "description": "MasterArcher Description"
+    },
+    {
+      "name": "Crossbowman",
+      "id": 11,
+      "maxlevel": 10,
+      "unlockatlevel": 7,
+      "price": 330,
+      "icon": "icon_troops_crossbowman.png",
+      "description": "Crossbowman Description"
+    },
+    {
+      "name": "Maceman",
+      "id": 12,
+      "maxlevel": 10,
+      "unlockatlevel": 3,
+      "price": 125,
+      "icon": "icon_troops_maceman.png",
+      "description": "Maceman Description"
+    },
+    {
+      "name": "Knight",
+      "id": 13,
+      "maxlevel": 10,
+      "unlockatlevel": 9,
+      "price": 270,
+      "icon": "icon_troops_knight.png",
+      "description": "Knight Description"
+    },
+    {
+      "name": "Paladin",
+      "id": 14,
+      "maxlevel": 10,
+      "unlockatlevel": 99,
+      "price": 300,
+      "icon": "icon_troops_paladin.png",
+      "description": "Paladin Description"
+    },
+    {
+      "name": "Arthur",
+      "id": 15,
+      "maxlevel": 50,
+      "unlockatlevel": 1,
+      "price": 120,
+      "icon": "icon_troops_arthur.png",
+      "description": "Arthur Description"
+    }
+  ],
+  "building": [
+    {
+      "name": "Church",
+      "type": "building",
+      "id": 100,
+      "maxlevel": 1,
+      "unlockatlevel": 8,
+      "price": 280,
+      "icon": "icon_building_church.png",
+      "description": "Church Description"
+    },
+    {
+      "name": "Bow Workshop",
+      "type": "building",
+      "id": 101,
+      "maxlevel": 1,
+      "unlockatlevel": 6,
+      "price": 260,
+      "icon": "icon_building_bowworkshop.png",
+      "description": "Bow Workshop Description"
+    },
+    {
+      "name": "Shield Workshop",
+      "type": "building",
+      "id": 102,
+      "maxlevel": 1,
+      "unlockatlevel": 3,
+      "price": 250,
+      "icon": "icon_building_shieldworkshop.png",
+      "description": "Shield Workshop Description"
+    },
+    {
+      "name": "Sword Workshop",
+      "type": "building",
+      "id": 103,
+      "maxlevel": 1,
+      "unlockatlevel": 2,
+      "price": 220,
+      "icon": "icon_building_swordworkshop.png",
+      "description": "Sword Workshop Description"
+    },
+    {
+      "name": "Stables",
+      "type": "building",
+      "id": 104,
+      "maxlevel": 1,
+      "unlockatlevel": 7,
+      "price": 230,
+      "icon": "icon_building_stable.png",
+      "description": "Stables Description"
+    },
+    {
+      "name": "Magic Tower",
+      "type": "building",
+      "id": 105,
+      "maxlevel": 3,
+      "unlockatlevel": 5,
+      "price": 800,
+      "icon": "icon_building_magictower.png",
+      "description": "Magic Tower Description"
+    },
+    {
+      "name": "Wooden House",
+      "type": "building",
+      "id": 106,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 50,
+      "icon": "icon_building_woodenhouse.png",
+      "description": "Wooden House Description"
+    },
+    {
+      "name": "House",
+      "type": "building",
+      "id": 107,
+      "maxlevel": 1,
+      "unlockatlevel": 4,
+      "price": 100,
+      "icon": "icon_building_house.png",
+      "description": "House Description"
+    },
+    {
+      "name": "Wooden Keep",
+      "type": "base",
+      "id": 150,
+      "maxlevel": 4,
+      "unlockatlevel": 1,
+      "price": 300,
+      "icon": "icon_building_stronghold.png",
+      "description": "Wooden Keep Description"
+    },
+    {
+      "name": "Repair",
+      "type": "repair",
+      "id": 400,
+      "maxlevel": 3,
+      "unlockatlevel": 1,
+      "price": 1000,
+      "icon": "icon_building_repair.png",
+      "description": "Repair Description"
+    }
+  ],
+  "stronghold": [
+    {
+      "name": "Fence",
+      "type": "fence",
+      "id": 200,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 20,
+      "icon": "icon_fortress_fence.png",
+      "description": "Fence Description"
+    },
+    {
+      "name": "Wooden Wall",
+      "type": "wall",
+      "id": 201,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 30,
+      "icon": "icon_fortress_woodenwall.png",
+      "description": "Wooden Wall Description"
+    },
+    {
+      "name": "Stone Wall",
+      "type": "wall",
+      "id": 202,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 60,
+      "icon": "icon_fortress_stonewall.png",
+      "description": "Stone Wall Description"
+    },
+    {
+      "name": "Wooden GateHouse",
+      "type": "gate",
+      "id": 203,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 90,
+      "icon": "icon_fortress_woodengatehouse.png",
+      "description": "Wooden GateHouse Description"
+    },
+    {
+      "name": "Big Wooden GateHouse",
+      "type": "gate",
+      "id": 204,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 120,
+      "icon": "icon_fortress_bigwoodengatehouse.png",
+      "description": "Big Wooden GateHouse Description"
+    },
+    {
+      "name": "Stone GateHouse",
+      "type": "gate",
+      "id": 205,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 180,
+      "icon": "icon_fortress_stonegatehouse.png",
+      "description": "Stone GateHouse Description"
+    },
+    {
+      "name": "Big Stone GateHouse",
+      "type": "gate",
+      "id": 206,
+      "maxlevel": 1,
+      "unlockatlevel": 99,
+      "price": 240,
+      "icon": "icon_fortress_bigstonegatehouse.png",
+      "description": "Big Stone GateHouse Description"
+    },
+    {
+      "name": "Arrow Tower",
+      "type": "tower",
+      "id": 207,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 280,
+      "icon": "icon_fortress_arrowtower.png",
+      "description": "Arrow Tower Description"
+    },
+    {
+      "name": "Big Arrow Tower",
+      "type": "tower",
+      "id": 208,
+      "maxlevel": 1,
+      "unlockatlevel": 99,
+      "price": 420,
+      "icon": "icon_fortress_bigarrowtower.png",
+      "description": "Big Arrow Tower Description"
+    },
+    {
+      "name": "Square Tower",
+      "type": "tower",
+      "id": 209,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 500,
+      "icon": "icon_fortress_squaretower.png",
+      "description": "Square Tower Description"
+    },
+    {
+      "name": "Big Square Tower",
+      "type": "tower",
+      "id": 210,
+      "maxlevel": 1,
+      "unlockatlevel": 99,
+      "price": 700,
+      "icon": "icon_fortress_bigsquaretower.png",
+      "description": "Big Square Tower Description"
+    },
+    {
+      "name": "Round Tower",
+      "type": "tower",
+      "id": 211,
+      "maxlevel": 1,
+      "unlockatlevel": 99,
+      "price": 800,
+      "icon": "icon_fortress_roundtower.png",
+      "description": "Round Tower Description"
+    },
+    {
+      "name": "Big Round Tower",
+      "type": "tower",
+      "id": 212,
+      "maxlevel": 1,
+      "unlockatlevel": 99,
+      "price": 980,
+      "icon": "icon_fortress_bigroundtower.png",
+      "description": "Big Round Tower Description"
+    },
+    {
+      "name": "Pitch",
+      "type": "pitch",
+      "id": 213,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 20,
+      "icon": "icon_fortress_pitch.png",
+      "description": "Pitch Description"
+    },
+    {
+      "name": "Pit",
+      "type": "pit",
+      "id": 214,
+      "maxlevel": 1,
+      "unlockatlevel": 1,
+      "price": 20,
+      "icon": "icon_fortress_pit.png",
+      "description": "Pit Description"
+    }
+  ]
+}

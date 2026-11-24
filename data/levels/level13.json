@@ -1,0 +1,3723 @@
+{
+  "level": 13,
+  "file": "level13.xml",
+  "meta": {
+    "mode": "normal",
+    "goldrate": 0.2,
+    "map": 13,
+    "award": 800
+  },
+  "wave_count": 46,
+  "total_units": 546,
+  "dialog_count": 12,
+  "timeline": [
+    {
+      "_node": "group",
+      "_wave": 1,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 41,
+      "head": 9,
+      "_node": "dialog",
+      "_wave": 1
+    },
+    {
+      "_node": "group",
+      "_wave": 2,
+      "time": 10,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 45,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 49,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 43,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 47,
+          "lv": 3
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 3,
+      "time": 50,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 45,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 49,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -1,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 43,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 47,
+          "lv": 3
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 4,
+      "time": 90,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 45,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 49,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 43,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 47,
+          "lv": 3
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 5,
+      "time": 130,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -1,
+          "gy": 45,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 49,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -1,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -3,
+          "gy": 43,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -5,
+          "gy": 47,
+          "lv": 3
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 6,
+      "time": 170,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 45,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 49,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 19,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -1,
+          "gy": 23,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -3,
+          "gy": 43,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -5,
+          "gy": 47,
+          "lv": 3
+        }
+      ],
+      "unit_count": 18
+    },
+    {
+      "_node": "group",
+      "_wave": 7,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 24
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 43,
+      "head": 9,
+      "_node": "dialog",
+      "_wave": 7
+    },
+    {
+      "_node": "group",
+      "_wave": 8,
+      "time": 10,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 28,
+          "lv": 2
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 9,
+      "time": 45,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 10,
+      "time": 80,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 38,
+          "lv": 2
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 11,
+      "time": 115,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 28,
+          "lv": 2
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 12,
+      "time": 150,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 18,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 16,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 18,
+          "lv": 2
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "_node": "group",
+      "_wave": 13,
+      "time": 185,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -2,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -4,
+          "gy": 38,
+          "lv": 2
+        }
+      ],
+      "unit_count": 4
+    },
+    {
+      "dialog": 4,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 13
+    },
+    {
+      "_node": "group",
+      "_wave": 14,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -2,
+          "gy": 18
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 3,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 14
+    },
+    {
+      "_node": "group",
+      "_wave": 15,
+      "time": 10,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 26,
+          "lv": 3
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 16,
+      "time": 50,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 36,
+          "lv": 3
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 17,
+      "time": 90,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 13,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 10,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 10,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 10,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 10,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 12,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 16,
+          "lv": 3
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 18,
+      "time": 130,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 43,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 44,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 46,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 46,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 44,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 46,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 40,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 42,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 44,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 46,
+          "lv": 3
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 19,
+      "time": 170,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 36,
+          "lv": 3
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 20,
+      "time": 210,
+      "units": [
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -8,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 20,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Archer A",
+          "gx": -10,
+          "gy": 26,
+          "lv": 3
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "dialog": 6,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 20
+    },
+    {
+      "_node": "group",
+      "_wave": 21,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 14
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 38,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 21
+    },
+    {
+      "_node": "group",
+      "_wave": 22,
+      "time": 10,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 20,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 36,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 42,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 44,
+          "lv": 4
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 23,
+      "time": 30,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 20,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 28,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 32,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 36,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -2,
+          "gy": 42,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 44,
+          "lv": 4
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 24,
+      "time": 70,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 20,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 36,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 42,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 44,
+          "lv": 4
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 25,
+      "time": 90,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 20,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 28,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 32,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 36,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 4
+        },
+        {
+          "name": "Catapult",
+          "gx": -2,
+          "gy": 42,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 44,
+          "lv": 4
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 26,
+      "time": 130,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 20,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 36,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 42,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 44,
+          "lv": 4
+        }
+      ],
+      "unit_count": 10
+    },
+    {
+      "_node": "group",
+      "_wave": 27,
+      "time": 150,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 18,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 20,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 22,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 26,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 28,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 32,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 34,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 36,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 38,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 40,
+          "lv": 4
+        },
+        {
+          "name": "Ballista",
+          "gx": -2,
+          "gy": 42,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 44,
+          "lv": 4
+        }
+      ],
+      "unit_count": 15
+    },
+    {
+      "_node": "group",
+      "_wave": 28,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -2,
+          "gy": 19
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 37,
+      "head": 7,
+      "_node": "dialog",
+      "_wave": 28
+    },
+    {
+      "_node": "group",
+      "_wave": 29,
+      "time": 10,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -14,
+          "gy": 15,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -14,
+          "gy": 17,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -16,
+          "gy": 15,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -16,
+          "gy": 17,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 14,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 18,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 16,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -14,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -14,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -16,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -16,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 22,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 26,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -14,
+          "gy": 32,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -14,
+          "gy": 34,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -16,
+          "gy": 32,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -16,
+          "gy": 34,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 31,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 35,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 33,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -14,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -14,
+          "gy": 43,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -16,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "Swordman A",
+          "gx": -16,
+          "gy": 43,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -2,
+          "gy": 42,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 40,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 42,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -4,
+          "gy": 44,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -6,
+          "gy": 42,
+          "lv": 4
+        }
+      ],
+      "unit_count": 36
+    },
+    {
+      "_node": "group",
+      "_wave": 30,
+      "time": 85,
+      "units": [
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 19,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 21,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 29,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 35,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -2,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 31,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 35,
+          "lv": 4
+        }
+      ],
+      "unit_count": 16
+    },
+    {
+      "_node": "group",
+      "_wave": 31,
+      "time": 125,
+      "units": [
+        {
+          "name": "Swordman A",
+          "gx": -9,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -7,
+          "gy": 22,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -7,
+          "gy": 24,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -7,
+          "gy": 26,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -7,
+          "gy": 28,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 29,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -1,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "Boss7",
+          "gx": -3,
+          "gy": 30,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -1,
+          "gy": 32,
+          "lv": 3
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 31,
+          "lv": 2
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -5,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Swordman A",
+          "gx": -7,
+          "gy": 32,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -7,
+          "gy": 34,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -7,
+          "gy": 36,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -7,
+          "gy": 38,
+          "lv": 2
+        },
+        {
+          "name": "Swordman A",
+          "gx": -9,
+          "gy": 38,
+          "lv": 2
+        }
+      ],
+      "unit_count": 17
+    },
+    {
+      "dialog": 4,
+      "head": 0,
+      "_node": "dialog",
+      "_wave": 31
+    },
+    {
+      "_node": "group",
+      "_wave": 32,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 18
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 33,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 32
+    },
+    {
+      "_node": "group",
+      "_wave": 33,
+      "time": 10,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 30,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -9,
+          "gy": 30,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -9,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 34,
+      "time": 80,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -7,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -7,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -7,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -9,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -9,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -9,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -3,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -9,
+          "gy": 30,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -9,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -5,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -7,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -7,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -7,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -9,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -9,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -9,
+          "gy": 41,
+          "lv": 4
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 35,
+      "time": 150,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 24,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 22,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 30,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -3,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -9,
+          "gy": 30,
+          "lv": 4
+        },
+        {
+          "name": "Battering Ram",
+          "gx": -9,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 41,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 41,
+          "lv": 3
+        }
+      ],
+      "unit_count": 24
+    },
+    {
+      "_node": "group",
+      "_wave": 36,
+      "time": 5,
+      "units": [
+        {
+          "name": "bugler A",
+          "gx": -1,
+          "gy": 20
+        }
+      ],
+      "unit_count": 1
+    },
+    {
+      "dialog": 32,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 36
+    },
+    {
+      "_node": "group",
+      "_wave": 37,
+      "time": 10,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -10,
+          "gy": 26,
+          "lv": 3
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 38,
+      "time": 40,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -10,
+          "gy": 16,
+          "lv": 3
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 39,
+      "time": 70,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -10,
+          "gy": 36,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 40,
+      "time": 100,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 26,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 28,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 25,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -10,
+          "gy": 26,
+          "lv": 3
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 41,
+      "time": 130,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 14,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 16,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 17,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -10,
+          "gy": 16,
+          "lv": 3
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 42,
+      "time": 160,
+      "units": [
+        {
+          "name": "Camel",
+          "gx": -1,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -4,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 34,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -6,
+          "gy": 38,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 35,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -8,
+          "gy": 37,
+          "lv": 3
+        },
+        {
+          "name": "CavalryArcher A",
+          "gx": -10,
+          "gy": 36,
+          "lv": 2
+        }
+      ],
+      "unit_count": 9
+    },
+    {
+      "_node": "group",
+      "_wave": 43,
+      "time": 5,
+      "units": [],
+      "unit_count": 0
+    },
+    {
+      "dialog": 39,
+      "head": 9,
+      "_node": "dialog",
+      "_wave": 43
+    },
+    {
+      "_node": "group",
+      "_wave": 44,
+      "time": 10,
+      "units": [
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 15,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 17,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 19,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 21,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 15,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 17,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 19,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 21,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 15,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 17,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 19,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 21,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 35,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -2,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 35,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 39,
+          "lv": 5
+        },
+        {
+          "name": "Archer A",
+          "gx": -4,
+          "gy": 41,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 33,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 35,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 37,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 39,
+          "lv": 4
+        },
+        {
+          "name": "Archer A",
+          "gx": -6,
+          "gy": 41,
+          "lv": 4
+        }
+      ],
+      "unit_count": 30
+    },
+    {
+      "_node": "group",
+      "_wave": 45,
+      "time": 50,
+      "units": [
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 15,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 18,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 21,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 24,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 33,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 36,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 39,
+          "lv": 3
+        },
+        {
+          "name": "Ballista",
+          "gx": -1,
+          "gy": 42,
+          "lv": 3
+        }
+      ],
+      "unit_count": 8
+    },
+    {
+      "_node": "group",
+      "_wave": 46,
+      "time": 100,
+      "units": [
+        {
+          "name": "Spearman A",
+          "gx": -13,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -13,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -11,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -11,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -9,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -7,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -5,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -3,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Spearman A",
+          "gx": -1,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -20,
+          "gy": 27,
+          "lv": 4
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -20,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -20,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -22,
+          "gy": 23,
+          "lv": 4
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -22,
+          "gy": 25,
+          "lv": 4
+        },
+        {
+          "name": "Camel",
+          "gx": -18,
+          "gy": 25,
+          "lv": 5
+        },
+        {
+          "name": "Boss8",
+          "gx": -16,
+          "gy": 27,
+          "lv": 3
+        },
+        {
+          "name": "Camel",
+          "gx": -18,
+          "gy": 30,
+          "lv": 5
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -20,
+          "gy": 28,
+          "lv": 4
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -20,
+          "gy": 30,
+          "lv": 4
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -20,
+          "gy": 32,
+          "lv": 4
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -22,
+          "gy": 30,
+          "lv": 4
+        },
+        {
+          "name": "RoyalGuard A",
+          "gx": -22,
+          "gy": 32,
+          "lv": 4
+        }
+      ],
+      "unit_count": 27
+    },
+    {
+      "dialog": 36,
+      "head": 8,
+      "_node": "dialog",
+      "_wave": 46
+    }
+  ]
+}
