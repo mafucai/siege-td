@@ -140,43 +140,25 @@ jobs:
           permissions/custom_permissions=PackedStringArray()
           PRESET
           sed -i "s|PACKAGE_NAME_PLACEHOLDER|${PACKAGE_NAME}|" export_presets.cfg
+          sed -i "s|DEBUG_KEYSTORE_PLACEHOLDER|$PWD/debug.keystore|" export_presets.cfg
+          echo "--- keystore 行 ---"
+          grep keystore export_presets.cfg
           # 去掉 heredoc 每行前的缩进
           sed -i 's/^          //' export_presets.cfg
           head -20 export_presets.cfg
 
       - name: Write editor settings (Java / Android SDK / keystore)
-        env:
-          ANDROID_HOME: ${{ env.ANDROID_HOME }}
         run: |
           set -euo pipefail
-          : "${ANDROID_HOME:=/usr/local/lib/android/sdk}"
-          export ANDROID_HOME
-          echo "ANDROID_HOME=$ANDROID_HOME"
-          echo "JAVA_HOME=$JAVA_HOME"
-          ls -d "$ANDROID_HOME" || { echo "SDK 目录不存在"; exit 1; }
-          test -d "$ANDROID_HOME/platform-tools" || echo "警告: 无 platform-tools"
-          test -f "$ANDROID_HOME/platforms/android-33/android.jar" || echo "警告: 无 android-33"
-          ls "$ANDROID_HOME/platforms" 2>/dev/null || true
-          ls "$ANDROID_HOME/build-tools" 2>/dev/null || true
-          # JAVA_HOME 由 setup-java 设置，指向 JDK 根
-          JAVA_SDK="${JAVA_HOME}"
-          test -x "$JAVA_SDK/bin/javac" || { echo "javac 不在 $JAVA_SDK/bin"; ls "$JAVA_SDK/bin" | head; exit 1; }
-          echo "JAVA_SDK=$JAVA_SDK"
-          mkdir -p "$HOME/.config/godot"
-          cat > "$HOME/.config/godot/editor_settings-4.3.tres" <<TRES
-          [gd_resource type="EditorSettings" format=3]
-
-          [resource]
-          export/android/java_sdk_path = "${JAVA_SDK}"
-          export/android/android_sdk_path = "${ANDROID_HOME}"
-          export/android/debug_keystore = "$PWD/debug.keystore"
-          export/android/debug_keystore_user = "androiddebugkey"
-          export/android/debug_keystore_pass = "android"
-          export/android/force_system_user = false
-          export/android/shutdown_adb_on_exit = true
-          TRES
-          sed -i 's/^          //' "$HOME/.config/godot/editor_settings-4.3.tres"
+          export ANDROID_HOME="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
+          export JAVA_SDK="${JAVA_HOME}"
+          export KEYSTORE_PATH="$PWD/debug.keystore"
+          python3 tools/gen_editor_settings.py
+          echo "--- 生成的文件 ---"
           cat "$HOME/.config/godot/editor_settings-4.3.tres"
+          echo "--- SDK 内容 ---"
+          ls "$ANDROID_HOME/platforms" || true
+          ls "$ANDROID_HOME/build-tools" || true
 
       - name: Import project
         run: |
@@ -192,7 +174,7 @@ jobs:
           export ANDROID_HOME="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
           export ANDROID_SDK_ROOT="$ANDROID_HOME"
           mkdir -p build
-          "$HOME/godot/godot" --headless --path . --export-debug "Android" build/fortress-td.apk 2>&1 | tee export.log || true
+          "$HOME/godot/godot" --headless --path . --verbose --export-debug "Android" build/fortress-td.apk 2>&1 | tee export.log || true
           echo "=== 导出日志（完整）==="
           cat export.log
           echo "=== build 目录 ==="
