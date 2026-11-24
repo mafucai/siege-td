@@ -1,6 +1,8 @@
 ## 敌人：沿路径推进，到达终点扣血
-class_name Enemy
 extends Node2D
+
+
+const GameConfig = preload("res://scripts/GameConfig.gd")
 
 var type_id: String = "grunt"
 var data: Dictionary = {}
@@ -38,7 +40,7 @@ func setup(p_type: String, wave: int) -> void:
 	color = data["color"]
 	wobble = randf() * TAU
 
-func tick(delta: float, path: PathMap) -> void:
+func tick(delta: float, path) -> void:
 	if dead:
 		return
 	if frozen_timer > 0.0:
@@ -51,10 +53,10 @@ func tick(delta: float, path: PathMap) -> void:
 	var mul := 0.45 if slow_timer > 0.0 else 1.0
 	dist += speed * mul * delta
 
-	var p := path.pos_at(dist)
+	var p: Vector2 = path.pos_at(dist)
 	if flying:
 		# 飞行单位直接在起点终点之间插值
-		var t := path.progress_at(dist)
+		var t: float = path.progress_at(dist)
 		p.y -= 38.0 + sin(wobble + Time.get_ticks_msec() * 0.004) * 4.0
 	position = p
 
@@ -79,7 +81,7 @@ func apply_freeze(duration: float) -> void:
 	frozen_timer = maxf(frozen_timer, duration)
 
 func _draw() -> void:
-	var c := color
+	var c: Color = color
 	if frozen_timer > 0.0:
 		c = Color("#93c5fd")
 	elif slow_timer > 0.0:
@@ -88,7 +90,7 @@ func _draw() -> void:
 	# 主体
 	if type_id == "flyer":
 		# 菱形
-		var pts := PackedVector2Array([
+		var pts: PackedVector2Array = PackedVector2Array([
 			Vector2(0, -radius), Vector2(radius, 0),
 			Vector2(0, radius), Vector2(-radius, 0)
 		])

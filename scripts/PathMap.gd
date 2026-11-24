@@ -1,6 +1,8 @@
 ## 寻路：固定路径点插值。支持飞行单位直线飞（不走路径）
-class_name PathMap
 extends RefCounted
+
+
+const GameConfig = preload("res://scripts/GameConfig.gd")
 
 var points: PackedVector2Array = []
 var seg_lengths: Array[float] = []
@@ -25,7 +27,7 @@ func pos_at(dist: float) -> Vector2:
 	for i in range(seg_lengths.size()):
 		var seg := seg_lengths[i]
 		if remain <= seg:
-			var t := remain / maxf(seg, 0.001)
+			var t: float = remain / maxf(seg, 0.001)
 			return points[i].lerp(points[i + 1], t)
 		remain -= seg
 	return points[points.size() - 1]
@@ -59,7 +61,7 @@ static func buildable_cells(path: PackedVector2Array) -> Array[Vector2i]:
 		var b := path[i + 1]
 		var steps := int(a.distance_to(b) / (s * 0.5)) + 1
 		for k in range(steps + 1):
-			var p := a.lerp(b, float(k) / maxf(steps, 1))
+			var p: Vector2 = a.lerp(b, float(k) / maxf(steps, 1))
 			var cx := int(floor(p.x / s))
 			var cy := int(floor(p.y / s))
 			for dy in range(-1, 2):

@@ -1,6 +1,5 @@
 ## 游戏配置与数值表
 ## 所有可调参数集中在这里，方便平衡性调整
-class_name GameConfig
 extends RefCounted
 
 # ============ 屏幕与网格 ============

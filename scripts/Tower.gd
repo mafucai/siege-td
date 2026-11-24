@@ -1,6 +1,9 @@
 ## 塔：自动索敌、开火、可升级
-class_name Tower
 extends Node2D
+
+
+const GameConfig = preload("res://scripts/GameConfig.gd")
+const PathMap = preload("res://scripts/PathMap.gd")
 
 var type_id: String = "arrow"
 var data: Dictionary = {}
@@ -10,7 +13,7 @@ var paid: int = 0
 
 var cooldown: float = 0.0
 var aim_angle: float = 0.0
-var target: Enemy = null
+var target = null
 var range_ring_alpha: float = 0.0
 
 signal fired(tower, target, stats)
@@ -47,9 +50,9 @@ func do_upgrade() -> void:
 func sell_value() -> int:
 	return int(paid * GameConfig.SELl_RATIO)
 
-func find_target(enemies: Array) -> Enemy:
-	var st := stats()
-	var best: Enemy = null
+func find_target(enemies: Array):
+	var st: Dictionary = stats()
+	var best = null
 	var best_dist := -1.0
 	for e in enemies:
 		if e.dead:
@@ -66,7 +69,7 @@ func find_target(enemies: Array) -> Enemy:
 
 func tick(delta: float, enemies: Array) -> void:
 	cooldown -= delta
-	var st := stats()
+	var st: Dictionary = stats()
 	if target == null or target.dead:
 		target = find_target(enemies)
 	if target != null:

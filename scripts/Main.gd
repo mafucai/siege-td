@@ -1,6 +1,12 @@
 ## 主游戏：状态机、波次调度、输入、渲染
 extends Node2D
 
+
+const GameConfig = preload("res://scripts/GameConfig.gd")
+const PathMap = preload("res://scripts/PathMap.gd")
+const Enemy = preload("res://scripts/Enemy.gd")
+const Tower = preload("res://scripts/Tower.gd")
+
 enum Phase { PREP, COMBAT, OVER }
 
 # --- 运行状态 ---
@@ -10,7 +16,7 @@ var wave: int = 0
 var phase: Phase = Phase.PREP
 var speed_mul: int = 1
 
-var path: PathMap
+var path
 var buildable: Array[Vector2i] = []
 var towers: Dictionary = {}          # Vector2i -> Tower
 var enemies: Array[Enemy] = []
@@ -22,7 +28,7 @@ var wave_timer: float = 0.0
 var spawn_interval: float = 0.55
 
 var selected_cell: Vector2i = Vector2i(-1, -1)
-var selected_tower: Tower = null
+var selected_tower = null
 var hover_cell: Vector2i = Vector2i(-1, -1)
 
 var skills: Dictionary = {}
@@ -212,7 +218,7 @@ func _on_upgrade() -> void:
 	if not selected_tower.can_upgrade():
 		_toast("已满级")
 		return
-	var c := selected_tower.upgrade_cost()
+	var c: int = selected_tower.upgrade_cost()
 	if gold < c:
 		_toast("金币不足")
 		return
@@ -278,7 +284,7 @@ func _cast_meteor(cfg: Dictionary) -> void:
 	if picks.is_empty():
 		picks = [null]
 	for e in picks:
-		var pos := e.position if e != null else Vector2(GameConfig.VIEW_W * 0.5, GameConfig.VIEW_H * 0.4)
+		var pos: Vector2 = e.position if e != null else Vector2(GameConfig.VIEW_W * 0.5, GameConfig.VIEW_H * 0.4)
 		floats.append({"pos": pos, "text": "陨石", "life": 0.5, "tt": 0.5, "color": Color("#f87171")})
 		for en in enemies:
 			if not en.dead and en.position.distance_to(pos) < cfg["radius"]:
@@ -379,7 +385,7 @@ func _alive_count() -> int:
 # ============================================================
 # 战斗结算
 # ============================================================
-func _on_tower_fired(tower: Tower, target: Enemy, st: Dictionary) -> void:
+func _on_tower_fired(tower, target, st: Dictionary) -> void:
 	shots.append({
 		"from": tower.position,
 		"to": target.position,
@@ -394,7 +400,7 @@ func _on_tower_fired(tower: Tower, target: Enemy, st: Dictionary) -> void:
 	})
 
 func _resolve_shot(s: Dictionary) -> void:
-	var tgt: Enemy = s["target"]
+	var tgt = s["target"]
 	if tgt == null or tgt.dead:
 		return
 	tgt.take_damage(s["damage"], s["pierce"])
@@ -407,12 +413,12 @@ func _resolve_shot(s: Dictionary) -> void:
 			if e.position.distance_to(tgt.position) < s["splash"]:
 				e.take_damage(s["damage"] * 0.55, s["pierce"])
 
-func _on_enemy_died(e: Enemy) -> void:
+func _on_enemy_died(e) -> void:
 	gold += e.gold
 	_toast_at(e.position, "+%d" % e.gold, Color("#fbbf24"))
 	e.queue_free()
 
-func _on_enemy_reached(e: Enemy) -> void:
+func _on_enemy_reached(e) -> void:
 	lives -= e.damage
 	e.queue_free()
 	_refresh_top()
@@ -435,27 +441,27 @@ func _draw() -> void:
 		draw_line(Vector2(0, cy * s), Vector2(GameConfig.VIEW_W, cy * s), Color(1, 1, 1, 0.03), 1.0)
 
 	# 路径
-	var pts := path.points
+	var pts: PackedVector2Array = path.points
 	draw_polyline(pts, Color("#1f2937"), 54.0, true)
 	draw_polyline(pts, Color("#2b3648"), 34.0, true)
 
 	# 城堡
-	var endp := pts[pts.size() - 1]
+	var endp: Vector2 = pts[pts.size() - 1]
 	_draw_castle(endp)
 
 	# 可建格提示
 	if hover_cell != Vector2i(-1, -1) and buildable.has(hover_cell) and not towers.has(hover_cell):
-		var c := PathMap.cell_center(hover_cell)
+		var c: Vector2 = PathMap.cell_center(hover_cell)
 		draw_rect(Rect2(c - Vector2(s, s) * 0.42, Vector2(s, s) * 0.84), Color(0.4, 0.9, 0.7, 0.12))
 
 	# 选中格
 	if selected_cell != Vector2i(-1, -1):
-		var c := PathMap.cell_center(selected_cell)
+		var c: Vector2 = PathMap.cell_center(selected_cell)
 		draw_rect(Rect2(c - Vector2(s, s) * 0.42, Vector2(s, s) * 0.84), Color(0.98, 0.8, 0.2, 0.28))
 
 	# 选中塔的射程
 	if selected_tower != null:
-		var st := selected_tower.stats()
+		var st: Dictionary = selected_tower.stats()
 		draw_circle(selected_tower.position, st["range"], Color(1, 1, 0.4, 0.06))
 		draw_arc(selected_tower.position, st["range"], 0, TAU, 48, Color(1, 1, 0.4, 0.35), 2.0)
 
