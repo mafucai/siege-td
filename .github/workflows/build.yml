@@ -61,7 +61,13 @@ jobs:
           unzip -q templates.tpz -d "$HOME/.local/share/godot/export_templates"
           mv "$HOME/.local/share/godot/export_templates/templates" \
              "$HOME/.local/share/godot/export_templates/${GODOT_VERSION}.stable"
-          ls "$HOME/.local/share/godot/export_templates/${GODOT_VERSION}.stable" | head
+          TPL_DIR="$HOME/.local/share/godot/export_templates/${GODOT_VERSION}.stable"
+          echo "--- 模板目录: $TPL_DIR ---"
+          ls -la "$TPL_DIR"
+          test -f "$TPL_DIR/android_debug.apk" || { echo "缺少 android_debug.apk"; exit 1; }
+          test -f "$TPL_DIR/android_release.apk" || { echo "缺少 android_release.apk"; exit 1; }
+          test -f "$TPL_DIR/version.txt" || echo "警告: 无 version.txt"
+          echo "--- version.txt ---"; cat "$TPL_DIR/version.txt" 2>/dev/null || true
 
       - name: Create debug keystore
         run: |
@@ -103,6 +109,24 @@ jobs:
           export ANDROID_SDK_ROOT="$ANDROID_HOME"
           "$HOME/godot/godot" --headless --path . --import || true
           ls -la .godot 2>/dev/null | head
+
+      - name: Preflight diagnostics
+        run: |
+          set -euo pipefail
+          export ANDROID_HOME="${ANDROID_HOME:-/usr/local/lib/android/sdk}"
+          echo "=== 模板 ==="
+          ls -la "$HOME/.local/share/godot/export_templates/4.3.stable/" | head -20
+          echo "=== SDK ==="
+          ls "$ANDROID_HOME"/platforms || true
+          ls "$ANDROID_HOME"/build-tools || true
+          echo "=== keystore ==="
+          ls -la debug.keystore
+          echo "=== presets keystore 行 ==="
+          grep -E 'keystore|unique_name' export_presets.cfg
+          echo "=== 先试 export-pack（不需要 Android SDK，隔离项目问题）==="
+          mkdir -p build
+          "$HOME/godot/godot" --headless --path . --export-pack "Android" build/test.pck 2>&1 | tail -8 || true
+          ls -la build/ || true
 
       - name: Export APK
         run: |
