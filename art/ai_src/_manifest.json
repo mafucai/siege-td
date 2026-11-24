@@ -1,0 +1,182 @@
+[
+  {
+    "out": "castle_0",
+    "src_png": "building.png",
+    "src_sub": "castle_0.png",
+    "x": 245,
+    "y": 204,
+    "w": 85,
+    "h": 171
+  },
+  {
+    "out": "castle_1",
+    "src_png": "building.png",
+    "src_sub": "castle_1.png",
+    "x": 123,
+    "y": 213,
+    "w": 109,
+    "h": 202
+  },
+  {
+    "out": "castle_2",
+    "src_png": "building.png",
+    "src_sub": "castle_2.png",
+    "x": 1,
+    "y": 428,
+    "w": 90,
+    "h": 167
+  },
+  {
+    "out": "castle_3",
+    "src_png": "building.png",
+    "src_sub": "castle_3.png",
+    "x": 123,
+    "y": 1,
+    "w": 121,
+    "h": 211
+  },
+  {
+    "out": "tower_Arrow_Tower",
+    "src_png": "fortress.png",
+    "src_sub": "generaltower_1.png",
+    "x": 272,
+    "y": 834,
+    "w": 58,
+    "h": 136
+  },
+  {
+    "out": "tower_Big_Arrow_Tower",
+    "src_png": "fortress.png",
+    "src_sub": "generaltower_2.png",
+    "x": 298,
+    "y": 376,
+    "w": 60,
+    "h": 173
+  },
+  {
+    "out": "tower_Square_Tower",
+    "src_png": "fortress.png",
+    "src_sub": "catapulttower_1.png",
+    "x": 1,
+    "y": 600,
+    "w": 94,
+    "h": 172
+  },
+  {
+    "out": "tower_Big_Square_Tower",
+    "src_png": "fortress.png",
+    "src_sub": "catapulttower_2.png",
+    "x": 298,
+    "y": 193,
+    "w": 94,
+    "h": 182
+  },
+  {
+    "out": "tower_Round_Tower",
+    "src_png": "fortress.png",
+    "src_sub": "trebuchettower_1.png",
+    "x": 102,
+    "y": 213,
+    "w": 100,
+    "h": 191
+  },
+  {
+    "out": "tower_Big_Round_Tower",
+    "src_png": "fortress.png",
+    "src_sub": "trebuchettower_2.png",
+    "x": 1,
+    "y": 1,
+    "w": 100,
+    "h": 211
+  },
+  {
+    "out": "building_Church",
+    "src_png": "building.png",
+    "src_sub": "church.png",
+    "x": 385,
+    "y": 376,
+    "w": 61,
+    "h": 134
+  },
+  {
+    "out": "building_Bow_Workshop",
+    "src_png": "building.png",
+    "src_sub": "bowworkshop.png",
+    "x": 442,
+    "y": 511,
+    "w": 56,
+    "h": 102
+  },
+  {
+    "out": "building_Shield_Workshop",
+    "src_png": "building.png",
+    "src_sub": "armorworkshop.png",
+    "x": 245,
+    "y": 747,
+    "w": 55,
+    "h": 98
+  },
+  {
+    "out": "building_Sword_Workshop",
+    "src_png": "building.png",
+    "src_sub": "swordworkshop.png",
+    "x": 447,
+    "y": 376,
+    "w": 56,
+    "h": 110
+  },
+  {
+    "out": "building_Stables",
+    "src_png": "building.png",
+    "src_sub": "stable.png",
+    "x": 324,
+    "y": 518,
+    "w": 54,
+    "h": 117
+  },
+  {
+    "out": "building_Magic_Tower",
+    "src_png": "building.png",
+    "src_sub": "magictower.png",
+    "x": 1,
+    "y": 596,
+    "w": 60,
+    "h": 141
+  },
+  {
+    "out": "building_Wooden_House",
+    "src_png": "building.png",
+    "src_sub": "house_wood.png",
+    "x": 378,
+    "y": 725,
+    "w": 45,
+    "h": 92
+  },
+  {
+    "out": "building_House",
+    "src_png": "building.png",
+    "src_sub": "house_brick.png",
+    "x": 465,
+    "y": 1,
+    "w": 44,
+    "h": 96
+  },
+  {
+    "out": "building_Enemy_Tent",
+    "src_png": "building.png",
+    "src_sub": "tent_small.png",
+    "x": 442,
+    "y": 614,
+    "w": 52,
+    "h": 95
+  },
+  {
+    "out": "building_Big_Enemy_Tent",
+    "src_png": "building.png",
+    "src_sub": "tent_large.png",
+    "x": 185,
+    "y": 664,
+    "w": 59,
+    "h": 110
+  }
+]

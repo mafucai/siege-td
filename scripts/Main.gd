@@ -6,6 +6,7 @@ const GameConfig = preload("res://scripts/GameConfig.gd")
 const PathMap = preload("res://scripts/PathMap.gd")
 const Enemy = preload("res://scripts/Enemy.gd")
 const Tower = preload("res://scripts/Tower.gd")
+const SpriteBank = preload("res://scripts/SpriteBank.gd")
 
 enum Phase { PREP, COMBAT, OVER }
 
@@ -33,6 +34,7 @@ var hover_cell: Vector2i = Vector2i(-1, -1)
 
 var skills: Dictionary = {}
 var game_over_timer: float = 0.0
+var castle_level: int = 1   # 城堡等级 0-3
 
 # --- UI 节点（代码生成，避免场景文件依赖）---
 var ui_layer: CanvasLayer
@@ -489,15 +491,20 @@ func _draw() -> void:
 			"坚守到第 %d 波" % wave, HORIZONTAL_ALIGNMENT_LEFT, -1, 26, Color("#cbd5e1"))
 
 func _draw_castle(c: Vector2) -> void:
+	# 城堡等级由玩家升级决定，默认 1 级（木堡）
+	var key := "castle_%d" % castle_level
+	var t := SpriteBank.tex(key)
+	if t != null:
+		var s := SpriteBank.size_of(key)
+		var top_left := Vector2(c.x - s.x * 0.5, c.y - s.y * 0.75)
+		draw_texture_rect(t, Rect2(top_left, s), false)
+		return
+	# 退化：几何绘制
 	var w := 100.0
-	# 城墙
 	draw_rect(Rect2(c.x - w * 0.5, c.y - 34, w, 40), Color("#334155"))
 	draw_rect(Rect2(c.x - w * 0.5, c.y - 34, w, 8), Color("#475569"))
-	# 门
 	draw_rect(Rect2(c.x - 14, c.y - 10, 28, 16), Color("#1e293b"))
-	# 主楼
 	draw_rect(Rect2(c.x - 22, c.y - 74, 44, 40), Color("#3f4b5e"))
-	# 旗
 	var flag := PackedVector2Array([Vector2(c.x, c.y - 108), Vector2(c.x + 26, c.y - 96), Vector2(c.x, c.y - 84)])
 	draw_colored_polygon(flag, Color("#f87171"))
 
