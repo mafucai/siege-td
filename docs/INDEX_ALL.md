@@ -7,6 +7,7 @@
 | 文档 | 位置 | 要点 |
 |---|---|---|
 | 安卓 APK 逆向改版实战 · 踩坑记录 | `workspace/siege/APK逆向改版-踩坑记录.md` | dex 三套元数据（checksum/uleb前缀/string_ids排序）· tinyxml 按属性名取值 · nop 优于改字符串 · zipalign 消 data descriptor · 最小改动验证法 |
+| **要塞围城 全部上下文交接** | `workspace/inbox/要塞围城-全部上下文交接.md` | **接手必读** · 玩法是守城布局不是塔防 · ecImage 的 w/h 双职责 · 代码洞 0xd2270 · 回跳必须 73676 · 已证伪假设 12 条 · 逆向工具环境 · 未完成事项 |
 
 ## 游戏 / 引擎
 
@@ -22,6 +23,7 @@
 | GitHub 设备码登录 | `workspace/inbox/GitHub-设备码登录.md` | 纯 shell 环境手机授权拿写权限 token · client_id `178c6fc778ccc68e1d6a` · scope `repo workflow` · 15 分钟有效 |
 | 一键脚本 | `workspace/inbox/gh_login.py` | `python3 gh_login.py` 授权并保存；`--status` 查有效性；已内置网络重试 |
 | 已授权凭据 | `workspace/inbox/.gh_token` | `gho_` token，scope `repo,workflow`，权限 600。**下次直接用，不必重新授权** |
+| **逆向工具环境** | `/opt/ghidra_12.2_PUBLIC` · `/opt/jdk-25.0.5.1+2` | REA 6.10.1 + Ghidra 12.2 + **自编译 arm64 反编译器** · 环境变量见交接文档 §5.4 · 反编译会卡但静态分析可用 |
 
 ## 项目
 
